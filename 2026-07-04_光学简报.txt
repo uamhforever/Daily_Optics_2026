@@ -1,0 +1,243 @@
+# 7月4日
+
+每日机器学习赋能镜头光学设计简报⏰
+以下是关于每日机器学习赋能镜头光学设计的最新动态简报，涵盖最近24小时内的主要事件和突破：
+
+背景信息：
+机器学习在光学设计领域的应用正日益广泛，它能够通过优化算法、数据分析和模式识别，加速传统光学设计流程，实现更复杂、高性能的光学系统。这包括从材料选择、结构优化到性能预测和缺陷检测等多个环节，极大地提升了光学产品的研发效率和性能。
+
+主要动态：
+
+●  学术文章：水体微塑料智能监测的光学与深度学习融合
+    ●  时间： 2026年7月3日[1]
+    ●  主要事件和突破： 香港大学林彦民课题组发表了一项研究，提出了一种基于色散编码快照4D学习的方法，用于实现水体微塑料的智能监测。该系统通过三角棱镜将全息与光谱信息压缩至单帧，并结合光学模型与深度学习技术，无需重建即可从快照中同步恢复微塑料的空间坐标和类别。该方法在六类水体颗粒分类中宏F1值达到98.10%，并且在无监督学习中F1值较纯全息提升约15%，显著减轻了对标注数据的依赖。[1]
+    ●  参与的研究机构： 香港大学林彦民课题组[1]
+    ●  可能的应用领域和潜在影响： 该技术为微塑料污染的现场监测提供了便携、低成本且高性能的解决方案，有望在环境监测、水质分析等领域发挥重要作用，实现“实验室到原位”的监测桥梁。[1]
+    ●  相关链接： JPhys Photonics编辑优选：色散编码快照4D学习实现水体微塑料智能监测 - IOP China[1]
+
+●  学术文章：薄膜铌酸锂波导片上相控阵器件的光学设计优化
+    ●  时间： 2026年7月3日[2]
+    ●  主要事件和突破： 暨南大学物理与光电工程学院卢惠辉/关贺元教授团队在《Opto-Electronic Science》上发表封面论文，成功研制出一种基于薄膜铌酸锂波导的片上相控阵器件。该器件通过电信号在芯片尺度上实现光束的电控转向，并利用智能优化算法排布各个波导通道的间距，以协同突破主瓣与旁瓣性能，获得更窄、更清晰的光束输出，有效抑制干扰信号。[2]
+    ●  参与的研究机构： 暨南大学物理与光电工程学院卢惠辉/关贺元教授团队[2]
+    ●  可能的应用领域和潜在影响： 该研究成果丰富了光束调控技术体系，为自由空间光通信、激光雷达、光计算等领域实现高性能、低功耗的光束调控提供了新的技术路径。[2]
+    ●  相关链接： 卢惠辉/关贺元教授团队在Opto-Electronic Science发表封面论文 - 物理与光电工程学院[2]
+
+●  行业动态：AI赋能MiniLED显示面板光学智能检测
+    ●  时间： 2026年7月3日[3]
+    ●  主要事件和突破： 在工业和信息化部发布的2025年人工智能应用典型案例中，成都考拉悠然的MiniLED全流程光学智能检测方案入选。该方案通过AI技术，将显示面板产线直通率从行业均值65%提升至80%，有效解决了量产质检难题。[3]
+    ●  参与的企业/机构： 成都考拉悠然（位于成都高新区）[3]
+    ●  可能的应用领域和潜在影响： 这项技术在高端装备、消费电子、新型显示等工业制造领域具有广泛应用前景，通过AI赋能光学检测，显著提升了产品质量和生产效率，降低了制造成本。[3]
+    ●  相关链接： 覆盖四大赛道成都高新区10项AI应用入选工信部典型案例 - 四川新闻[3]
+
+●  行业动态：AI影像技术推动光学镜头市场关注度提升
+    ●  时间： 2026年7月3日[4]
+    ●  主要事件和突破： 华晶科（3059）等具备光学镜头、模组与影像应用能力的公司，因“AI影像题材”在市场中受到关注。这反映出AI影像应用正从消费型装置扩展到工业自动化、智慧医疗、边缘运算和车用视觉等场景，对高解析度、高帧率的感测与影像处理需求同步提高，从而带动了对高性能光学组件的需求。[4]
+    ●  参与的企业/机构： 华晶科（3059）等光学相关企业[4]
+    ●  可能的应用领域和潜在影响： AI影像技术的快速发展，正促使光学行业加速创新，以满足智能摄像头、AI眼镜等边缘AI设备对轻薄、高效光学系统的需求，预示着光学镜头在AI时代将迎来更广阔的市场空间。[4][5][6]
+    ●  相关链接： 華晶科(3059)盤中觸及漲停後，現在是撿便宜還是被套牢？AI影像題材與後續觀察重點解析[4]
+
+●  行业动态：AI视频生成中镜头与灯光的智能控制
+    ●  时间： 2026年7月3日[7]
+    ●  主要事件和突破： 在AI视频生成领域，有研究提出将AI视频生成拆分为“控制器+绘图器”架构，其中包含“设计灯光和镜头的智能体”，能够根据叙事需求调整光线角度和摄像机轨道。这使得单镜头编辑轮次从20至50次降至3次以内，大幅提升了AI视频制作的效率和可控性。[7]
+    ●  参与的研究机构或企业： 大圆镜等相关研究团队[7]
+    ●  可能的应用领域和潜在影响： 该技术将深刻影响影视制作、广告创意、虚拟现实等领域，使AI在视觉内容创作中扮演更核心的角色，并可能对未来光学镜头在虚拟环境中的模拟和控制提出新的要求。[7][8][9]
+    ●  相关链接： AI视频告别抽卡：给黑盒装上物理方向盘 - 大圆镜[7]
+
+开源库：
+在过去24小时内，未发现直接针对“机器学习赋能镜头光学设计”的全新开源库发布。目前已有的开源项目主要集中在AI账户管理、AI短剧制作（涉及视频生成中的“镜头”概念，但非光学设计本身）或UI设计等领域。
+每日推送设置
+每日机器学习赋能超表面设计简报⏰
+每日机器学习赋能超表面设计最新动态简报 (2026年7月3日-7月4日)
+
+背景信息：
+超表面是一种由亚波长纳米结构（超原子）组成的二维超材料，能够以传统光学元件无法实现的方式操控电磁波（如光、微波等）。它们可以在超薄层内实现异常反射/折射、全息成像、偏振转换等复杂功能。传统上，超表面的设计依赖于计算密集型模拟和迭代试错，耗时且效率低下。近年来，机器学习，特别是深度学习，正被广泛应用于加速超表面的设计和优化过程，包括逆向设计、预测光学特性以及优化结构参数，从而极大地推动了该领域的发展。
+
+最近24小时内的主要动态：
+
+●  时间： 2026年7月3日
+●  主要事件和突破：
+    ●  人工智能在智能材料设计中的应用： 宾夕法尼亚州立大学团队利用人工智能神经网络，结合PEDOT:PSS弹性塑料与二氧化钛材料，成功研发出一种直径仅约0.5毫米的新型仿生光忆阻器。该器件通过模拟人眼视杆与视锥细胞的动态调节机制，利用材料在强光下脱附水分变干、黑暗中吸水的特性自动调节灵敏度，在混合光环境测试中实现了超过95%的字母识别准确率。这一进展展示了人工智能在设计具有特定功能的高级表面和智能材料方面的潜力，尽管并非直接针对“超表面”，但其在仿生设计和材料功能化方面的思路与超表面设计理念有共通之处。[1]
+    ●  智能超表面设计在学术教学中的体现： 北京交通大学的章嘉懿教授在“通信电子线路”课程中，将智能超表面原型机的单元电路设计细节融入教学，帮助学生理解书本原理如何应用于前沿难题。这表明智能超表面设计已成为高等教育和科研关注的重点领域，相关设计方法和技术正在被积极探索和传授。[2]
+●  参与的研究机构或企业：
+    ●  宾夕法尼亚州立大学团队[1]
+    ●  北京交通大学[2]
+●  可能的应用领域和潜在影响：
+    ●  智能材料与传感器： 仿生光忆阻器的研发为自动驾驶汽车在复杂光影交替场景下的感知进化提供了可能，未来有望应用于高适应性光学传感器、智能显示和可穿戴设备等领域。[1]
+    ●  通信与电子工程： 智能超表面在通信电子线路设计中的应用，预示着其在6G大规模天线、无线通信和电磁波操控等领域的巨大潜力，有助于培养具备解决前沿工程问题能力的专业人才。[2]
+    ●  机器学习在材料科学中的加速作用： 这些案例进一步突显了机器学习在加速新材料发现、优化材料设计和实现特定功能方面的关键作用，有望大幅缩短从概念到实际应用的周期。
+
+●  相关链接：
+    ●  关于宾夕法尼亚州立大学仿生光忆阻器的报道：[1]
+    ●  关于北京交通大学智能超表面教学的报道：[2]
+每日推送设置
+每日光学设计简报⏰
+以下是您定制的每日光学设计最新动态简报，涵盖了最近24小时内的主要进展：
+
+光学设计最新动态简报 (2026年7月3日 - 2026年7月4日)
+
+学术研究与突破
+
+●  薄膜铌酸锂片上相控阵器件实现光束电控转向
+    ●  时间: 2026年7月3日[1]
+    ●  主要事件和突破: 暨南大学物理与光电工程学院卢惠辉/关贺元教授团队在光波导混合集成器件领域取得重要进展，成功研制出一种基于薄膜铌酸锂波导的片上相控阵器件。该器件能够在芯片尺度上实现光束的电控转向，并获得更窄、更清晰的光束输出。这项成果以封面论文形式发表于《Opto-Electronic Science》，其影响因子高达26.9。光学波束扫描是自由空间光通信、激光雷达及光计算等领域的关键技术，相较于传统机械扫描方式，光学相控阵具有易于小型集成和扫描速度快的优势。[1]
+    ●  参与的研究机构或企业: 暨南大学物理与光电工程学院卢惠辉/关贺元教授团队。[1]
+    ●  可能的应用领域和潜在影响: 自由空间光通信、激光雷达、光计算等高精度与高抗干扰应用。该技术通过电信号精确控制光的传播方向，有望推动高性能、低功耗光束调控技术的发展。[1]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQF673gBaIc8cW59uo0xlBwWtEDzRNrCXPb6uHfYG1NMH6eKsEwe_TR1J9F5b8lrRTJ6iKCUK74mfab521qDUKFfXE1t9fDZ_AaWb6mOgxd6emJQKdO2eOb33DetQV4s16_-QarLcnFTebI9L4cs_vNrUs[1]
+
+●  色散编码快照4D学习用于水体微塑料智能监测
+    ●  时间: 2026年7月3日[2]
+    ●  主要事件和突破: 香港大学林彦民课题组提出了一种色散编码4D特征学习（3D空间+1D光谱）方法，用于水中微颗粒的实时监测。研究团队设计了一种基于色散编码的快照式全息光谱成像系统，通过三角棱镜将全息与光谱信息压缩至单帧，并结合光学模型与深度学习，无需重建即可从快照同步恢复空间坐标和类别。实验结果显示，该方法对六类水体颗粒的分类宏F1值达到98.10%。微塑料污染是全球性的环境挑战，精准识别水中微塑料的种类、形态、尺寸与丰度是研究其来源与生态影响的基础。[2]
+    ●  参与的研究机构或企业: 香港大学林彦民课题组。[2]
+    ●  可能的应用领域和潜在影响: 为微塑料污染的现场监测提供低成本、高通量、便携且能同时获取形态、空间与光谱信息的多维成像系统，实现“实验室到原位”的桥梁。[2]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ30PTM-5bY_IZHAwL4h_TPKkEe3-7SdNxOX55Th5hh5AM8MWFk-1Yk8NRxcKptvh7_6ScZcJKK-5nSZ1GNevvwGLW20oQSz4ssDYS_dKBqkKS1jdiEpHE_B38ZT10yn-YNX0sgcH_JWApDCtPcDnTv7tQpQYjsxVj8_JEi4dKy3Zmrc3SaV24uwRyqHmepg3phKDI4RNdVKvB_3s[2]
+
+●  太赫兹手性超表面用于偏振传感检测
+    ●  时间: 2026年7月3日[3]
+    ●  主要事件和突破: 西安理工大学王玥教授团队提出了一种基于定向单壁碳纳米管（SWCNT）薄膜的太赫兹手性超表面，无需复杂的对称性破缺结构即可实现手性效应。该超表面器件成功用于乳酸对映体的偏振传感检测，在太赫兹波段实现了对乳酸对映体的定性区分以及定量浓度检测。传统手性分子检测方法通常依赖复杂的化学修饰和手性选择剂，而现有手性超表面传感器制造成本高、工艺复杂。[3]
+    ●  参与的研究机构或企业: 西安理工大学王玥教授团队。[3]
+    ●  可能的应用领域和潜在影响: 快速响应、无需标记、高灵敏度的生物传感器，可用于生物医学、制药等领域的手性分子检测。[3]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu3gmpnt78X_Mbf92JAKRGpmZu4ziv-iaj75sxY9HCXDFZ8Vc9cKpsnkukYkFA_w5-zHfjIK23dCMFhU0eWnp73hdIcVksO_emUydbUULok-hsRU06MBwX1V1ih1O7pfA=[3]
+
+●  基于碳点组装体的全色荧光全息超级加密
+    ●  时间: 2026年7月3日[4]
+    ●  主要事件和突破: 东北师范大学的研究团队利用碳点组装体构建了集色彩显示、荧光开关和偏振全息于一体的多功能平台，实现了全色荧光全息超级加密。随着全球数据量的指数级增长，信息的安全传输与存储面临严峻挑战，光加密技术因其高速度、多维度和抗电磁干扰等优势，是海量数据存储的有力手段。[4]
+    ●  参与的研究机构或企业: 东北师范大学。[4]
+    ●  可能的应用领域和潜在影响: 为下一代高安全性光学防伪、信息加密和数据保护提供新的设计思路与技术路径。[4]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmT_Bh0npV3GjCHpZ_emX8KSrNrgUJ0QBE2OGjBUK8A7I0htFfXbfN3XJfdrPlqfkxCqKwVxk-sd05wHm4Q7_9MP1xj754fECGCGIyt1nZOmgCWZzP0DABXrxcMkLxw_b7[4]
+
+●  激光外差光谱技术突破大气温室气体高精度探测瓶颈
+    ●  时间: 2026年7月3日[5]
+    ●  主要事件和突破: 中国科学院安光所基础科学中心在激光外差光谱技术研究领域取得系列进展，成功在仪器线型校准、实时波长校准及单边带光谱分辨率增强等关键技术上取得突破，显著提升了激光外差辐射计（LHR）的测量精度与光谱分辨率。该团队通过系统优化干涉仪光程差，采用22cm非平衡臂设计，实现了0.01623cm-1的校准分辨率，在1秒平均时间下校准不确定度低至2×10-5cm-1。此外，研究团队还提出了单边带激光外差光谱仪设计，使系统光谱分辨率达0.002cm-1，较传统双边带系统提升两倍。[5]
+    ●  参与的研究机构或企业: 中国科学院安光所基础科学中心。[5]
+    ●  可能的应用领域和潜在影响: 大气环境监测、气候变化等领域，可为高精度激光外差吸收光谱探测提供稳定可靠的频率标尺，甲烷柱浓度反演精度提升10%。[5]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo4f3DN-FzidMVCzl19pbmk6c3iyLNwKuBCbSOVbVM0tfhQECDvtXcIw252W6RoOwvcDFO52q_srLkQaSUNWse8wS7NTp8jnaVshxQJXJ3SF6xXsyVeMVoLgJsN8Psp6xk[5]
+
+●  高效节能窗膜的宽带隙介质/银/介质多层结构光学性能研究
+    ●  时间: 2026年7月4日[6]
+    ●  主要事件和突破: 生物通报道了关于用于高效节能窗膜的宽带隙介质/银/介质多层结构的光学性能与太阳光控制功能的研究。其中，ZnO/Ag/ZnO多层结构被认为是一种尤其有效的热反射镜和低辐射玻璃设计。[6]
+    ●  参与的研究机构或企业: 未明确具体研究机构，但文章由生物通报道。[6]
+    ●  可能的应用领域和潜在影响: 建筑节能，通过优化窗膜设计提高热反射和低辐射性能。[6]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8qbv_tkALE3sJN2ufM9EEDiuAcyvb_H1AlXk4Lc0_IMyBOJzFZgF6GKrX6-6pK37khOpmJ4HgxA9ROkFZlZXo8ZegJGelD2yeF13dEJ5uTzbLRSucAOZJ_mTE5P5-h_XRr4HHzbaBu615y-46-_Z15PNpgZQccQ==[6]
+
+●  电子束蒸发制备非晶碳化硅薄膜波导的三阶非线性光学特性研究
+    ●  时间: 2026年7月4日[7]
+    ●  主要事件和突破: 生物通报道了关于电子束蒸发制备的非晶碳化硅薄膜波导的三阶非线性光学特性的研究。该研究旨在准确测定非线性吸收系数（β）和非线性折射率（n2），以推动a-SiC基光子集成电路的发展。[7]
+    ●  参与的研究机构或企业: 未明确具体研究机构，但文章由生物通报道。[7]
+    ●  可能的应用领域和潜在影响: 量子光子技术，a-SiC基光子集成电路的设计和优化。[7]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR27-teL7IZzYk-GbsLsToP7Rrrg1Qi2LlvDDqrM_BQj2YxFMlrI2uGSVoVFN22cnwdLlk9b9nAMJJL3B-PROkgwpN_cLrB74vRAHL3qrwm0ZbLcKq11cxcinQgJklygark0tul-wr5TMC3XDaIqjQ3tx4rXwjHQ==[7]
+
+行业动态与专利
+
+●  光峰科技获“一种光学薄膜及光学成像系统”发明专利授权
+    ●  时间: 2026年7月3日[8]
+    ●  主要事件和突破: 深圳光峰科技股份有限公司（688007）新获得一项名为“一种光学薄膜及光学成像系统”的发明专利授权，专利申请号为CN202011150172.9。[8]
+    ●  参与的研究机构或企业: 深圳光峰科技股份有限公司。[8]
+    ●  可能的应用领域和潜在影响: 提升公司在光学薄膜和成像系统领域的技术实力和市场竞争力。[8]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs4_O0kwZFUo7iZV81rDXZtyi5XRVValhur53E0pn1wKz4qdwGp-PPfby_lB8IYsUO46jSDtIrXmKctW-gpyNu6qM3STPYCtiV0O9M5jYP0K2hWWrJyhys9wIp_EGREFTHMUkTMo_amok4ew4eaMU=[8]
+
+●  无掩膜光刻加工在光电器件领域的应用优势
+    ●  时间: 2026年7月3日[9]
+    ●  主要事件和突破: 泽攸科技介绍了无掩膜光刻加工在光电器件加工领域的应用优势。无掩膜光刻机可用于衍射光栅、微透镜阵列、光子微结构、光学传感元件图形制备，并能快速调整阵列排布、线条尺寸，适配各类异形、非周期性光学结构的加工需求。相比传统掩膜光刻设备，无掩膜光刻省去了掩膜版定制、清洗、存储的成本与周期，大幅缩短产品迭代周期。[9]
+    ●  参与的研究机构或企业: 泽攸科技。[9]
+    ●  可能的应用领域和潜在影响: 推动光电器件、先进封装制程、流体与精密传感器件等领域的产品试制、小批量定制生产和新工艺参数调试，降低新品试产投入。[9]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUyPFx-_PzKrZOf2kXYje88Da35eKoPGrItNBLabZzZyyNll4xYTjS4-PE6-C3Di4Uf6wuw0-r622CFGR8P-k6U1WUwh-AmQy0wUZlsXTJA8A7gIsuevoO9AUYffY7U-axwpj69d2ELiNnP-C17ZvjgaL2pyavT9q9ZA==[9]
+
+●  弘景光电在AI眼镜等新兴消费光学镜头领域进展
+    ●  时间: 2026年7月3日[10]
+    ●  主要事件和突破: 广东弘景光电科技股份有限公司在光学镜头及摄像模组产品的研发、设计、生产和销售方面有所进展，其产品应用于智能汽车光学镜头及摄像模组和新兴消费光学镜头及摄像模组，其中包括AI眼镜的镜头。[10]
+    ●  参与的研究机构或企业: 广东弘景光电科技股份有限公司。[10]
+    ●  可能的应用领域和潜在影响: 智能汽车（智能座舱、智能驾驶）、智能家居、全景/运动相机以及AI眼镜等新兴消费电子领域。[10]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp58y6g7x6bJVSkRh6_T9YpVIIxpPcWbNJEZYuaOZd0BoyxW4xfs3kqmtL7XdAgGhbBsVuLZzGcA9Qu3-44b3eagfzJrfcQML9zWKcWbQTNYd-IMIaLUqz3yQhmw9swTLa-s6nBdaWnUG9nLhBaNeEb1N_rEYVAWB9XI_f843Xud7dJSlNiP0IoEbW2KjgelZXHwJPwXDUKi0eplQLmUk577Qlo9tWkwoeuYpivjRIdbQsOi4fI-QmDEBRWnNDCA2IYE7AzjgmUL_Sa6MKnY4gXjlUkW2BX67ZwFtmvdGOkUnmQ==[10]
+
+开源项目
+
+●  TensorBinding.jl：量子材料张量网络求解器开源软件包
+    ●  时间: 2026年7月3日[11]
+    ●  主要事件和突破: 一篇论文评述介绍了基于Julia语言的开源软件包TensorBinding.jl，它提供了一个灵活、可扩展的框架，用于处理超大规模紧束缚哈密顿量的张量网络求解器。该方法克服了传统对角化方法在处理大尺度量子材料系统时内存消耗的局限性。[11]
+    ●  参与的研究机构或企业: 论文作者开源。[11]
+    ●  可能的应用领域和潜在影响: 计算凝聚态物理，特别是研究具有长程空间调制、准晶体结构、莫尔超晶格等特征的量子材料系统，以及拓扑相、激子态及关联电子物理。[11]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuTUQOcOjqkE0bNq_S3z8aUW1jqH6pRXcprQQqNuDb9QeXhnhOaFR3MGn2cTlbUxz2SJ4STULqAGHeDMgA7v8hB2mjIgn-_Zb19CKckm6huJdZYzTYfgAaCiaSWgoczWJYYSyvQBYpbviVY0Fby0pO3vt7tfCMK4d7egIerX6Np-ERRczeMp2_5t2KemRpEvRXWmnZtxhmSXXob7s2khyo7E70uvrZCQgoiUt1oUH6-TRHBgGPeJPb5qORMAaq[11]
+
+●  Tesseract OCR引擎：40年发展与LSTM神经网络应用
+    ●  时间: 2026年7月3日[12]
+    ●  主要事件和突破: 一篇文章回顾了Tesseract OCR引擎40年的发展历程，强调其作为开源项目，从HP实验室到Google维护，再到社区接手，并引入了LSTM神经网络，支持100多种语言。Tesseract是地球上部署最广泛的OCR引擎之一，广泛应用于手机文字提取、PDF工具、文档扫描仪等。[12]
+    ●  参与的研究机构或企业: HP实验室、Google、开源社区。[12]
+    ●  可能的应用领域和潜在影响: 提升光学字符识别的准确性和多语言支持，促进文档数字化、信息自动化处理等领域的发展。[12]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeiTAYyiXSAiDbA5X4msH29JmoNw1ihW8K-6OJf-CtORvguR3SbPEpoiwC61ysr5hcKKMGJbGkfpJorl0DdNupyB-iD5-XKvWO6l--gBq6ETuHnOIi2wcqZkjwnUR6vZ3rGeawBw==[12]
+
+教育与培训
+
+●  中科信软提供光学设计全流程培训
+    ●  时间: 2026年7月3日[13]
+    ●  主要事件和突破: 中科信软提供了光学设计培训课程，涵盖从几何光学到多物理场耦合的全流程，以及Zemax和LightTools等核心软件技能，并引入自由曲面光学设计、计算成像与超表面光学等前沿方向。光学设计在消费电子、航空航天、医疗影像、汽车照明等精密制造领域日益重要，掌握光学设计与仿真技能是高薪岗位的关键。[13]
+    ●  参与的研究机构或企业: 中科信软。[13]
+    ●  可能的应用领域和潜在影响: 培养光学设计人才，满足行业对专业技能的需求，优化光学镜头设计流程，缩短设计周期，提升成像质量。[13]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbCWCHwlm97BXhvtVNayrslLwOsfcMyMBzsWg4U6U_37PIqn9zXZVoNHXQOWRJvjq2I3RmUuXOuY93FYB0ulWG_GpPbPNPUZ2L0S36ZMPJRhhkKRRo-p7fMVt7xNOfAdXOfgj5bSEV0Lzsv0WPK_s=[13]
+
+●  苏州城市学院光学与电子信息学院完成招生宣传
+    ●  时间: 2026年7月3日[14]
+    ●  主要事件和突破: 苏州城市学院光学与电子信息学院完成了2026年招生宣传工作，通过线上线下联动和人工智能技术制作招生宣传视频，展示了学院在光电信息产业发展趋势下的专业特色和优势。[14]
+    ●  参与的研究机构或企业: 苏州城市学院光学与电子信息学院。[14]
+    ●  可能的应用领域和潜在影响: 吸引更多优秀学生投身光电信息领域，为行业输送人才，促进光电信息产业发展。[14]
+    ●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO5VLzoqQcjB5MMQn1tKDQPh0HkI07eUDF8mC0kQHc6JG2BxlyLBK43uAXl8v1VM_mZW9ORLbwpB8hQZnkUxawl7anhZ1CIxS-LRTqd7zNnf_91QxdT77vYWe5-e1oBHmA0YaeB68DuYq0cibrIpU=[14]
+每日推送设置
+每日超表面简报⏰
+以下是关于超表面最近24小时内的主要动态简报：
+
+主要事件和突破
+
+●  生物医学传感新进展： 吉林大学马强教授团队开发了一种基于“长程有序/短程无序”协同结构的超表面-电化学发光（ECL）传感器。该传感器能够灵敏检测细胞外囊泡中的MiRNA-92a-3p，为胃癌的早期筛查与分期判断提供了新的分子佐证。这项研究已在《Analytical Chemistry》杂志上发表。[1]
+●  量子计算超表面芯片： 上海企业璇相科技成功研制出全球首款可产生百万级原子光镊阵列的超表面芯片。该芯片已在中性原子实验平台上完成系统级验证，标志着超表面技术在量子计算领域取得重要突破。[2][3]
+●  太赫兹手性超表面偏振传感： 西安理工大学王玥教授团队提出了一种基于定向单壁碳纳米管薄膜的太赫兹手性超表面。该超表面无需复杂的对称性破缺结构，即可实现显著的手性效应，并成功应用于乳酸对映体的偏振传感检测，实现了对乳酸对映体的定性区分和定量浓度检测。[4]
+●  超表面在机器视觉和光子处理器中的应用： 超表面通过亚波长像素化光场操控，实现了对光波振幅、相位、偏振和传播方向的精确调控，成为变革性的光-物质相互作用平台。这为先进光子处理器的单片式设计提供了可能，并解锁了机器视觉等领域的应用潜力。[5]
+●  Micro LED光互连专利进展： 麦沄显示、兆驰集成和华创芯光等多家企业披露了Micro LED光互连相关的专利进展。这些专利涉及MicroVCSEL集成阵列结构、Micro-LED芯片及其制备方法、可见光通信系统以及并行MicroLED光互连的同步控制方法及系统。[6]
+●  6G通信中的智能超表面（RIS）： 中国移动研究院院长黄宇红透露，我国在6G整体研发方面已处于全球第一梯队，并在太赫兹通信、空天地一体化网络、智能超表面（RIS）等方向积累了数百项核心技术与专利。智能超表面被视为6G通信的关键技术之一。[7][8]
+●  超表面电磁调控技术降低通信成本： 我国成功完成了超表面电磁调控核心技术功能样品研制。这项新技术在同等通信覆盖效果下，有望将高端卫星通信和毫米波通信终端的量产成本从万元级大幅降低至千元级。[9]
+
+参与的研究机构或企业
+
+●  吉林大学马强教授团队[1]
+●  上海璇相科技[2][3]
+●  西安理工大学王玥教授团队[4]
+●  昆山麦沄显示技术有限公司[6]
+●  江西兆驰集成科技有限公司[6]
+●  深圳华创芯光科技有限公司[6]
+●  中国移动研究院[7][8]
+●  歌尔光学（歌尔股份参股公司）[10]
+
+可能应用领域和潜在影响
+
+●  医疗诊断： 超表面-电化学发光传感器可用于胃癌等疾病的早期筛查和诊断，提高疾病发现的及时性和准确性。[1]
+●  量子计算： 超表面芯片在量子计算领域，特别是中性原子量子计算平台上的应用，有望推动量子计算机的规模化和实用化进程。[2][3]
+●  化学与生物传感： 太赫兹手性超表面可实现对复杂手性分子的精确检测，在药物研发、食品安全和环境监测等领域具有广阔应用前景。[4]
+●  机器视觉与光子计算： 超表面对光场的精细操控能力，使其成为构建高性能光子处理器和先进机器视觉系统的关键元件，有望提升图像处理速度和效率。[5]
+●  高速数据通信与互连： Micro LED光互连技术的发展，将为数据中心、AI服务器等提供更高带宽、更低功耗的高速光互连解决方案，支持400G、800G乃至1.6T光模块的应用。[6]
+●  下一代通信技术（6G）： 智能超表面（RIS）作为6G通信的核心技术之一，将有助于实现更广覆盖、更高效率和更低成本的通信网络，尤其在太赫兹通信和空天地一体化网络中发挥重要作用。[7][8]
+●  机器人与智能穿戴设备： 超表面器件和微纳光学技术在具身智能机器人视觉传感器、微型激光雷达以及AI智能眼镜等前沿传感器核心光学元件制造中的应用，将推动这些设备的微型化、高性能化发展。[10]
+●  卫星与毫米波通信成本优化： 超表面电磁调控技术的突破，有望显著降低高端卫星通信和毫米波通信终端的制造成本，加速相关技术的普及和应用。[9]
+
+背景信息
+
+超表面（Metasurface）是一种由亚波长尺寸的微纳结构单元（通常称为“超原子”）周期性或非周期性排列而成的二维材料。这些超原子可以对入射光的振幅、相位、偏振和传播方向进行精确调控，从而实现传统光学元件难以实现的功能。与传统光学元件相比，超表面具有超薄、超轻、集成度高、功能多样等优势，在光成像、光谱、光互连、光存储、光通信和光计算等领域展现出巨大的应用潜力。
+
+相关链接
+
+●  吉林大学马强教授团队论文：[1]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF00yIRySEkVGl6dCXEHo879500lDQe3qJSMbddfdGHaEmT89ZMduUp3j9d0eeVEAbC_Ef9uhWwpC7HgjdEkSYLey_Ard09fxLgyTDPOJOq2Mc0Hyc3u7JeAmA3kuSvMJY=
+●  上海璇相科技超表面芯片报道：[2][3]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAkZSgsHYbO1FRvFHpFgkor_ZpAp0iVdEnvXdId5b6whMEJ5mM_cqTkucAt1_glPdpTnhtjqOBifLFIV_vj5S3iyUj-qOeaNU0Bdpa-teYFRu3mZAGsQ__sLCZtWkfy-n3Ae-pI5b2OA=
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsaKfjhPTNc3tPz69_ES1m_zbG0DrEPMlCYaybaUSJrMBi6U92sPrECbqOSPVu-GteByTAwh6f7CwDaar1kpoSmspQSr4pobpA-nRASfevvlnalSjXaX7L0wqMSqenoVdLk59kovrmXIq77ugo7oAcMfVUBC1vxIJb5oB6RPA1tA=
+●  西安理工大学王玥教授团队太赫兹手性超表面报道：[4]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOGIXOZuQnkptM_jZTseX-n09Ufb0D1PXhpyCe-AxCxyjTjLvm75BeHPnpzSC2uOda0WWeNcTdnyQCgD1YsUYrvt4CpSWY9A76kVZTTaLvglqzT5nf6qb2xMIAbmbrqKRX
+●  超表面在机器视觉和光子处理器中的应用报道：[5]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7GflpJJF0OCWyGVEahVse1qe0ItCU3F2_PIRLlYvR2Zf8jC22yXNZL0n6BF37ljtDnb1DgFTYgBnWT7rs0W_3xb0C1BddsNcYtxUPEiztR0-5tYDmCq_y3dUFuVd_vRS9whRL4OvwBpxZ11uH10F3HGawrL5Okg==
+●  Micro LED光互连专利进展报道：[6]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrKqVMHZt7ilnfMAj8tt3k-9tPXhpEeEceeCOMNofGTvEk6J-fIk-ZYSHq4Ft8hCIZDc5mwF4Kv_IjNs5Lh_0h0nWaVxkMM82ZVMLw10P2IOBx5hfTKbrTqaET4hpTKnhTri6USVzB9FM=
+●  6G通信中智能超表面（RIS）相关报道：[7][8]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwchXNWvcmV7nf-fQ0yurhmGYx8SCZBgP0cQxcyKWdbc7EZI5THEFTptU-qhXKOBfBEaAv_NbwPs4uvW0en8_4ybrhpfrgcfKuZUNMBwTidcH3B1qMdrTg0o1bJMqSjXx6uUiznbvaDc9YcckjCg=
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlmVYl-ksoK078H7dxEf5ZUcEfZKZQHQ53-SDZDQOCcWgWykamS7yAmcG43ydVENBVEUnChzisRVf7rSV3QxBDeOmNxyil_Oarra4hEdBjO7x2gpKWNEU3HmjRso94aktZKhaxSQzWUSeO9CzrFiQYlHEqv8vpLEikq-2Sp1A8aw=
+●  歌尔股份关于超表面器件的回复：[10]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdVvOQFOkwtXQfkMW_1ZGGNzpmmngEyr_ZCiPAqdLD7x5HcJduDYwwHsneOBJopWDhjh0C8HcisQXMPpg5Ki6RtUGbxDVpU9EbLu7vi676AGtfdl8uW7m6aedwpJ6lowsZj3eX2PSbP79nzUi89Q0=
+●  超表面电磁调控技术降低通信成本报道：[9]
+    https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fSX_mIeqnxLo_XbPmR512HLYfG5u2E5f0dMWv83kLjfFNQ6zbXxD9J8FBNEPc1T4HSKShUPp0uKlZiOjK4y5uGUsH2Iddh7Zi6m3eAJq_ptH6CZD9P2TUeVKag=
+
