@@ -1,0 +1,216 @@
+# 9月25日
+
+每日机器学习赋能镜头光学设计简报⏰
+以下是关于每日机器学习赋能镜头光学设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+机器学习赋能镜头光学设计最新动态简报
+
+1. 元曦光子完成天使轮融资，推进超表面光学芯片及自动优化技术
+
+●  时间： 2026年9月24日[1]
+●  主要事件和突破： 武汉元曦光子科技有限公司（元曦光子）近日完成数千万元天使轮融资。该公司专注于超表面光学芯片及工艺研发，并已自主研发出FFO全场域全参量自动优化技术。这项技术在感知精度和探测距离方面，相较于同类方案提升了20%至30%，显示出机器学习在复杂光学设计优化方面的显著潜力。[1]
+●  参与的研究机构或企业： 元曦光子，投资方包括中科创星、洪山资本、聚华传新、武创院及江城基金。其团队汇聚了微纳光学、半导体制程等领域的专家，核心成员来自天津大学和武汉理工大学。[1]
+●  可能的应用领域和潜在影响： 该技术将重点拓展智能3D传感和数据中心光互联等应用市场。超表面光学芯片的小型化和低成本化趋势，将推动多模态感知能力嵌入手机、可穿戴设备和无人机等移动终端，有望带来更紧凑、高效和高性能的光学组件。[1]
+●  相关链接： https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGypqFxL9Aw3Qf5bJ2SMMO6hNSMil9uDRJin3cef0JbdVqsA5fiZnIbc5K9Ua2myKj5NFlSpSyTHem2Yl-hcL8pyH29iILr8QyqMYQ27pFqZXyJe19Y77WeStaRcMW1h8jVzTyipAENTSZ5lDnVD5Q[1]
+
+2. 海目星推进玻璃3D光波导技术，赋能AI算力光学结构
+
+●  时间： 2026年9月24日[2]
+●  主要事件和突破： 海目星（688559.SH）正在深化其超快激光“平台化”布局，加速切入AI算力与CPO（光电共封装）赛道。在光学结构方面，该公司正积极推进玻璃3D光波导技术研发，利用超快激光在玻璃内部制备三维结构。这项技术目前处于客户验证阶段，是AI高算力芯片光学结构的关键进展。[2]
+●  参与的研究机构或企业： 海目星。[2]
+●  可能的应用领域和潜在影响： AI高算力芯片的光学结构、AI热管理以及CPO光互连。这项技术有望解决AI硬件中的数据传输和散热挑战，推动AI计算效率的提升。[2]
+●  相关链接： https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVUSymVFG6hGh84u8VT6FFUzd42YmMAnseLYshRLwjgGA7SDPq03k62oqs1q5pZoTNvBp9hXNgo4qXaI2YITP460jDPDRiY7Ccgv1_SE_Emku_1UDBX3e010AKRsfHF1UtrCp9cx-rbBVcs2B6Lw==[2]
+
+3. 尼康Z5IIC相机发布，搭载AI驱动自动对焦技术
+
+●  时间： 2026年9月24日[3][4]
+●  主要事件和突破： 尼康正式发布了Z5IIC无反相机。该相机搭载了强大的AI驱动自动对焦技术，通过深度学习能够精准识别多达10种主体类型，并首次新增了“鱼类”检测选项。这项技术显著提升了相机在复杂场景下，尤其是在暗光环境中，对移动主体的对焦精度和可靠性。[3][4]
+●  参与的研究机构或企业： 尼康。[3][4]
+●  可能的应用领域和潜在影响： 摄影和摄像领域，特别是运动、野生动物和人像拍摄。机器学习在光学成像系统中的应用，使得相机能够更智能地捕捉清晰锐利的照片和视频，降低了用户的操作难度。[3][4]
+●  相关链接： https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA4tvBb7Pd73IwnJ7lCd-KAAuBNz2jm-tLWloEbqNcD_gtbIZnzeTgISs5xKj4lJr9tZpU6ykLj0c9X_VQV49J9qfQ8xJO6i8zEu91oZz8K09fnWzGLpiR0rwkh4b3CB0YPZaYgszQ9OJFm8uEgWKnwd8-NA_KEiy4Ke0pue6WX8ajSYRpxu5z09AxQX6Nc9Jx7oJZ-eNyyBHbOtXqFSL364781JLx-VuR0fEFWdQkA1lkB-lS86uhFdRBOE4=[3], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY55BJtixV_kso5Dg-l6pAzOUF4p0K9ykVZsz-gXzL5eyW6CGwrqOD84YPvIFpnMfGoYdtdZMqW2drdxKOiFNRnLZUkEbTubEv2u1DbXgTkNDsu2Mja6oS73O70WDjLa6OiDVBL[4]
+
+4. AI眼镜加速发展，Meta和Rokid推出新品强化多模态交互
+
+●  时间： 2026年9月24日[5][6][7][8][9]
+●  主要事件和突破： Meta在年度Connect 2026大会上展示了新款AI眼镜，包括一款无摄像头、仅支持音频的智能眼镜和一款轻量化VR头显。同时，Rokid在第五届全球数字贸易博览会上全球首发了第二代AI眼镜，其核心亮点是多模态会议纪要功能，通过麦克风收音和摄像头图像识别能力，实现图文融合的会议记录。这些进展表明AI与光学硬件的深度融合，正推动智能眼镜从概念走向生态。[5][6][7][8][9]
+●  参与的研究机构或企业： Meta、Rokid。[5][6][7][8][9]
+●  可能的应用领域和潜在影响： 个人AI助理、免提计算、增强通信和生产力工具。AI眼镜被视为“手机后的下一个计算平台”，通过视觉和语音交互，有望提供比智能手机更低摩擦的AI交互入口，重塑个人计算体验。[5][6][7][8][9]
+●  相关链接： https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdU60-2ZlAUDi6yw6bA-wkxP62olJN-Ko0w2rfbbrdTXXzuvaiPV3Xj2t-w3Obuk57t8QOEpLZ_MoMW0yXBUCMsrQqfc00lXbSSNdwerQmwRa5VHLbTnIHfhCDZtH6K-zEuYTjA==[5], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzKs6YQUsqDscNjHkb6rW5AryY2T0nrGA2gsquOTKF2LqleWJ46IOYD05t-un2vq5IirqD8tNtODyXibKtEo8-9gL9pJvBirtoQoMbu8aNMvNHLeRENwMj1jLPQuEtrLA==[6], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxCLzE54EEjvHvWTPhOG6QVE2N2aX_nc-yWpJRkNT8kjg0eyMehR1JZBjxp9h4VnOC_EqjVk69NHfSx67nJ8QkaOTawOXIvDswwNFEKLlyF68AZ8CvLdivuK4BbvQuTlmwIS5Ux9fsuTPzwt2ZbK-s1VTzCSJu_SQysw6VzvBpORRR[7], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_yHIO5O_llTmJ-ySjRHMDDag1kESup6h1h4Fl4TELAwqzJnJw6q9cl7UWpP37Vm9YozGYevrASSgEsAB23fncxyZwO5W5FaW4tsXf81wy0QD4dyTwhtqZzENYAMaMhAhL4bahjQBma26nLMhowfzcGw==[8], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkoK-XQemnpfntHfM8GqLILOrsr02mXtoDg8ST6Fmn-w2JRtUnOtK3ry3YPBLzcFDAwaNo-oOVPZ9opiEycHlYEK-27txVRRnUNEoA--7VUVK1fG6oQG6-MpyXFaBh1vHnWxXmdXc1Tv_kVjffuovtPr5GV4BhAw-ur9FYy_WbKPMTwi4=[9]
+
+5. AI算力基础设施加速“光”化，CPO/NPO成关键趋势
+
+●  时间： 2026年9月24日[10][11][12][13]
+●  主要事件和突破： 随着AI算力需求的爆发式增长，传统电互连面临物理极限，光互连成为解决带宽和功耗瓶颈的关键。曦智科技等公司正积极开发面向NPO（近封装光学）模块的硅光芯片，例如其3.2T/6.4T收发一体硅光芯片，将光引擎更靠近AI芯片。此外，颀邦等传统封装企业也凭借金凸块制程切入AI光通訊领域，预计光通訊业务将成为新的增长点。[10][11][12][13]
+●  参与的研究机构或企业： 曦智科技、Ayar Labs（获得英伟达和AMD投资）、颀邦。[10][11][12][13]
+●  可能的应用领域和潜在影响： 高性能AI数据中心、AI服务器和先进芯片封装。光互连技术的进步对于构建更大规模、更高效的AI计算集群至关重要，将直接影响未来AI模型训练和推理的能力。[10][11][12][13]
+●  相关链接： https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHihnxo0QcSM-nfY3t2NhSreAodUH2p3VtLjDXdQUs6pv2vfR0pxJolYNiSvL4JccwvVjVcw-YzaOnvJn6J87TqwDNTNmguTYqYnygRHzeGoc7_qOJKlqX7wO0uf_EgNSoPF0yzZ1ENFioqAJ7BTw==[10], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5DjINswSjxRyaPXWTC91h5ZUmGM7LpQyWTh6a-GzQvPVpTHhOF7fQWGcBqPaaywlfuhYUyCUlUtbpIBhbQ7M86DeLewwJYGuhwXQgi3zyAzBRn0deLMNgkyHJaG6Wb8rd0S5WunqG7S99uGNNnkZDZT2hj-AJDjHjNIbnRq5wDXtk-Q==[11], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH_vEAvKMLtKp0sXedocMa9q8dZ1tsYVt2v8H9aEn3shb0aHLL3cUTLrcoiPKZsD42-vACkfBBTv_1DR0l_V4RpoiJz4hvKsy-Ep_N60r4NStwVlnpkOTSNJKqLyjoWAxD[12], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3xqjxLFp9amiupHYdzrhD-xamFPlOaqwRvCt1jgd43QNnVpFylFLBbZIFgbSBkDp-CTbcUJ4icSbomEbFbIZGpOScTqgKS9MIBo5DY942jg2_pSoDMk7SOA8TDC-1oXf-p8NWOg==[13]
+每日推送设置
+每日机器学习赋能超表面设计简报⏰
+以下是关于每日机器学习赋能超表面设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+行业动态与潜在影响
+
+●  时间： 2026年9月24日[1]
+●  主要事件和突破： 武汉市元曦光子科技有限公司（简称“元曦光子”）近日完成数千万元天使轮融资。此次融资将用于持续推进超表面光学芯片研发、工艺优化和产品导入。该公司已自主研发了FFO全场域全参量自动优化技术，该技术相较同类方案能将感知精度与探测距离提升20%-30%。虽然搜索结果中未明确提及机器学习，但“自动优化技术”在当前高科技研发中常与机器学习方法结合，以加速设计迭代和性能提升。[1]
+●  参与的研究机构或企业： 元曦光子（一家专注于高性能超表面光学技术产业化的初创企业），投资方包括中科创星、洪山资本、聚华传新、武创院及江城基金。[1]
+●  可能的应用领域和潜在影响： 元曦光子重点拓展智能3D传感、数据中心光互联等应用市场。其产品已推出点阵超透镜、匀光超透镜及准直耦合等系列，面向高速光互联的相关产品正在进行样品验证。超表面光学芯片正加速向小型化与低成本演进，技术迭代推动多模态感知能力嵌入移动终端。这预示着未来在消费电子、通信、医疗等领域，超表面技术将带来更小、更高效、功能更强大的光学器件。[1]
+●  相关链接： 元曦光子完成数千万元天使轮融资推进超表面光学芯片及工艺研发 - 网易[1]
+
+背景信息：
+
+超表面（Metasurface）是一种由亚波长结构单元（超原子）组成的人工二维材料，能够对电磁波的振幅、相位、偏振等特性进行灵活调控。通过精确设计这些超原子，可以实现传统光学元件难以实现的功能，例如超薄透镜、全息显示、隐身斗篷等。机器学习，特别是深度学习和优化算法，在超表面设计中扮演着越来越重要的角色，能够显著加速复杂超表面结构的逆向设计、性能预测和优化过程，从而缩短研发周期并提升器件性能。
+
+学术文章与开源库：
+
+在过去24小时内，未发现明确提及“机器学习赋能超表面设计”的最新学术论文或开源库发布。鉴于该领域的专业性和24小时的时间限制，此类高度具体的更新可能不频繁。
+每日推送设置
+每日超表面简报⏰
+以下是关于超表面技术在过去24小时内的最新动态简报：
+
+主要事件和突破
+
+●  融资与产业化加速：武汉元曦光子科技有限公司（元曦光子）近日完成数千万元天使轮融资，该资金将用于持续推进超表面光学芯片的研发、工艺优化和产品导入。该公司专注于高性能超表面光学技术产业化，已构建全波设计仿真、超单元数据库及晶圆级工艺全链条能力，并自主研发了FFO全场域全参量自动优化技术，可将感知精度与探测距离提升20%-30%。[1][2]
+●  超快光束重定向：加州理工学院的工程师们开发出一种利用第二束光和纳米级硅超表面，在74飞秒内重定向光束的设备。这项技术通过光本身来控制超表面，消除了传统机械或电子元件带来的延迟，有望大幅提升信息处理速度。[3]
+●  太赫兹超表面新进展：
+    ●  一项研究提出了一种新型光学可重构自旋解耦太赫兹超表面，仅通过曲率诱导几何相位（CIGP）即可实现独立的双自旋相位控制，简化了多功能太赫兹波前操控。该研究利用光敏半导体实现光学编程，具有动态可调的电导率。[4]
+    ●  另一项研究数值模拟了一种用于高Q太赫兹准BIC（束缚态于连续谱中）谐振的硅四聚体超表面，展示了通过质心对称性控制辐射泄漏，从而实现远场可访问的高Q太赫兹响应，为窄带传感和光谱滤波提供了新的途径。[5]
+    ●  此外，一种带有九个光谱隔离的局域表面等离子体（LSP）谐振（0.1–0.9 THz）的多波段金超表面已被开发用于增强太赫兹生物传感，并具有静电和声光主动调谐功能。该芯片能将生物分子的检测限提高95-186倍。[6]
+●  超表面在雷达对抗与安全领域的应用：
+    ●  一项研究提出了一种基于辐射时空调制数字超表面的谐波能量区域控制干扰方法，能够对谐波辐射模式和区域能量分布进行可编程控制，为智能干扰系统提供了定量可设计的方法。[7]
+    ●  另一项研究提出了一种角度选择性超表面，用于物理选择和验证可信源信号，通过将偏离可信方向的信号转换为角度相关的光谱变换，增强了无线系统物理层安全性。[8]
+●  光子集成电路设计优化：Keysight公司的ADS Photonic Designer和RSoft Photonic Device Tools集成了器件仿真、电路设计、布局和系统分析功能，可用于光子集成电路（PIC）的设计和验证，包括超表面的优化，从而简化了高速光通信应用的设计流程。[9]
+●  智能眼镜眼动追踪：一项研究提出了一种针对智能眼镜的高效纳米光学眼动追踪方法，通过联合优化纳米光子超表面、传感器像素间距和神经网络，解决了眼球旋转和眼镜滑动之间的模糊性，实现了高精度（0.75°三维凝视误差）和低计算成本的眼动追踪。[10]
+●  大面积宽角宽带减反超表面：中国科学院上海光学精密机械研究所的团队在大面积宽角宽带减反超表面研究方面取得进展。他们采用纳米压印技术制备了双面熔融石英纳米柱超表面，实现了可见光至近红外波段的宽带、宽角度减反效果，并展现出良好的高温稳定性和激光损伤耐受能力。石英的平均反射率在400-1500 nm范围内从5.6%降至2.4%以下。[11][12]
+●  晶圆级集成传感器件：WISDOM（基于光电超表面的晶圆级集成传感器件）项目旨在开创一个晶圆级集成平台，将超表面光学、光电器件（LED、VCSEL）和硅CMOS电子器件无缝结合。[13]
+●  石墨烯光电探测器增强：石墨烯光电探测器通过超表面结构调节近场分布和塞贝克系数梯度，实现了中红外波段的人工光伏响应和偏振态分析，无需外部校准即可进行偏振检测，扩展了其在自由空间通信和多维传感中的应用。[14]
+
+参与的研究机构或企业
+
+●  元曦光子（Yuanxi Photonics）：一家专注于高性能超表面光学技术产业化的初创企业，总部位于湖北省武汉市洪山区。其CTO王球拥有十余年超表面光学研发经验，CEO李勇拥有十余年激光与光学行业从业经历。投资方包括中科创星、洪山资本、聚华传新、武创院及江城基金。[1][2]
+●  加州理工学院（Caltech）：其工程师团队在超快光束重定向方面取得突破。[3]
+●  MDPI Photonics：发表了关于自旋解耦太赫兹超表面和高Q太赫兹超表面传感的学术文章。[4][5]
+●  Frontiers in Biophysics：发表了关于多波段太赫兹生物传感器的学术文章。[6]
+●  MDPI Electronics：发表了关于谐波能量区域控制干扰方法的学术文章。[7]
+●  MDPI Sensors：发表了关于角度选择性超表面用于物理层安全的学术文章。[8]
+●  Keysight（是德科技）：其ADS Photonic Designer和RSoft Photonic Device Tools支持超表面在光子集成电路设计中的优化。[9]
+●  中国科学院上海光学精密机械研究所（SIOM）：其高功率激光元件技术与工程部团队在大面积宽角宽带减反超表面研究方面取得进展，并获得了国家自然科学基金、上海市自然科学基金和中国科协青年人才托举工程等项目的支持。[11][12]
+●  新加坡-麻省理工学院研究与技术联盟（SMART）：其WISDOM项目汇集了麻省理工学院（MIT）、新加坡国立大学（NUS）、南洋理工大学（NTU）、新加坡科技研究局（A*STAR）、斯坦福大学和伊利诺伊大学的研究人员，共同开发晶圆级集成传感器件。[13]
+●  MDPI Biosensors：发表了关于石墨烯光电探测器与超表面结合的学术文章。[14]
+●  Lumotive：其专利的光控制超表面（LCM™）技术将光子学转化为数字平台，在传感、光开关和通信方面实现突破。[15][16]
+
+可能应用领域和潜在影响
+
+●  光成像与传感：
+    ●  太赫兹成像：新型自旋解耦太赫兹超表面可用于多功能太赫兹波前操控，有望推动太赫兹成像技术发展。[4]
+    ●  生物传感：多波段太赫兹生物传感器芯片能显著提高生物分子（如蛋白质、糖、抗生素和细菌）的检测灵敏度，实现无标记生物分子振动检测。[6]
+    ●  智能3D传感：元曦光子的超表面光学芯片将重点拓展智能3D传感市场，其FFO技术可提升感知精度和探测距离。[1][2]
+    ●  智能眼镜与眼动追踪：纳米光学超表面结合神经网络的眼动追踪技术，能提高智能眼镜的眼动追踪精度并降低计算成本，对增强现实/虚拟现实应用至关重要。[10]
+    ●  下一代成像平台：超材料市场增长的驱动力之一是下一代成像平台，超表面作为超薄功能层，能减小尺寸、重量和复杂性。[17]
+●  光谱：高Q太赫兹超表面为窄带传感和光谱滤波提供了新的操作窗口，对于生化检测和分子识别具有重要意义。[5]
+●  光互连与光通信：
+    ●  数据中心光互连：元曦光子的超表面光学芯片将重点拓展数据中心光互连市场，其相关产品正在进行样品验证。[1][2]
+    ●  高速光通信：加州理工学院的超快光束重定向技术有望大幅加速光子通信。Keysight的集成设计工具也旨在优化光子集成电路，以支持高速光通信应用。[3][9]
+    ●  自由空间通信：石墨烯光电探测器与超表面结合，通过偏振检测扩展了在自由空间通信中的应用。[14]
+    ●  5G/6G基础设施：超材料市场增长的驱动力包括5G和新兴的6G基础设施，超表面有助于减小尺寸、重量和复杂性。[17]
+●  光存储：虽然直接提及光存储的突破较少，但光子计算和通信的进步通常会间接推动光存储技术的发展。
+●  光计算：加州理工学院的超快光束重定向技术有望显著加速计算机的信息处理速度，推动光子计算的发展。[3]
+●  高功率激光光学元件：上海光机所的大面积宽角宽带减反超表面为高功率激光光学元件提供了新的制备方案，具有良好的高温稳定性和激光损伤耐受能力。[11][12]
+●  无线系统安全：基于超表面的谐波能量区域控制干扰方法和角度选择性超表面，为雷达干扰、欺骗、成像干扰以及无线通信的物理层安全提供了新的解决方案。[7][8]
+●  晶圆级集成：WISDOM项目致力于将超表面光学与光电器件、CMOS电子器件集成，有望实现紧凑、高性能的晶圆级传感设备。[13]
+
+相关链接
+
+●  元曦光子融资新闻：
+    ●  元曦光子完成数千万元天使轮融资推进超表面光学芯片及工艺研发.[1]
+    ●  元曦光子完成数千万元天使轮融资.[2]
+●  加州理工学院超快光束重定向：
+    ●  You might say Dayton Photonics is growing at (almost) the speed of light.[3]
+●  太赫兹超表面论文：
+    ●  Optically Reconfigurable Spin-Decoupled Terahertz Metasurface Based Solely on the Curvature-Induced Geometric Phase - MDPI.[4]
+    ●  Centroid-Symmetry-Controlled High-Q Terahertz Quasi-BIC Resonances in an All-Dielectric Tetramer Metasurface - MDPI.[5]
+    ●  Multi-Band Localized Surface Plasmon Enhanced Terahertz Biosensor Chip with Electrostatic and Acousto-Optic Active Tuning - Frontiers.[6]
+●  超表面在雷达对抗与安全论文：
+    ●  A Harmonic-Energy Regional-Control Jamming Method Based on a Radiating Space–Time-Modulated Digital Metasurface - MDPI.[7]
+    ●  Physical Selection and Verification of a Trusted Source Signal Using an Angle-Selective Metasurface - MDPI.[8]
+●  Keysight光子集成电路工具：
+    ●  Connect Device Physics to System Performance - Keysight.[9]
+●  智能眼镜眼动追踪研究：
+    ●  Efficient Nano-Optical Eye Tracking for Smart Glasses.[10]
+●  上海光机所减反超表面进展：
+    ●  上海光机所在大面积宽角宽带减反超构表面研究方面取得进展.[11][12]
+●  超材料市场预测：
+    ●  Metamaterial Market Forecasts Growth from $682.32M (2026) - GlobeNewswire.[17]
+●  WISDOM项目招聘信息：
+    ●  Postdoctoral Associate (Device Modeling and Characterization) Sciences / Laboratory / R&D Jobs Singapore - MyCareersFuture.[13]
+●  石墨烯光电探测器论文：
+    ●  Graphene Photodetectors Toward Practical Technologies for Biosensing: Mechanisms, Architectures, Applications, and Integration Challenges - MDPI.[14]
+每日推送设置
+每日光学设计简报⏰
+以下是关于每日光学设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+时间：2026年9月24日
+
+一、行业动态与突破
+
+●  AI数据中心光互连技术取得显著进展
+    ●  主要事件和突破：
+        ●  PicoJool 融资2750万美元，加速AI数据中心光连接规模化。 PicoJool公司在A轮融资中获得2750万美元，旨在扩大其在AI数据中心光连接领域的业务。该公司专注于芯片级VCSELs和MicroVCSELs、有源光缆以及近封装光学器件，目标是50G NRZ光计算互连和基于PCIe 6.0的64G NRZ/PAM4配置的近封装光学器件。此次融资将推动其产品从性能演示转向合格认证和部署，以解决先进光学组件在制造规模化方面的挑战。[1]
+        ●  Vuzix 推出高带宽光互连解决方案。 Vuzix公司已开始向特定客户和生态系统合作伙伴提供其首批Causeway™波导桥样品，并为AI数据中心光互连应用（包括共封装光学（CPO）架构）提供更广泛的光互连评估套件。这标志着在实现下一代AI系统更高带宽和显著降低功耗的关键技术方面迈出了重要一步。[2]
+        ●  SMART Photonics 与 GlobalFoundries 合作提供开放式代工服务。 SMART Photonics 宣布与 GlobalFoundries (GF) 合作，为集成硅和磷化铟光子产品提供开放式代工服务。此举旨在解决AI数据中心的扩展挑战，并为可插拔光收发器提供高效的生产流程，应用于AI、数据中心和激光雷达等领域。[3]
+        ●  Fabric.AI 提交两项微型LED光互连专利申请。 Fabric.AI 公司提交了两项专利申请，涵盖其与Kopin公司共同开发的微型LED光互连架构。这些专利侧重于通过新型光学系统对整个微型LED阵列进行成像，而非逐通道对齐光线，以实现光纤耦合和无连接器微型LED光互连。该技术旨在解决下一代AI数据中心在带宽和能效方面的限制。[4]
+        ●  Keysight 推出光子设计工具。 Keysight 正在推广其ADS Photonic Designer和RSoft Photonic Device Tools，这些工具将电光系统设计与基于物理的组件优化相结合。它们旨在帮助光子集成电路（PIC）设计师、光学工程师和数据中心系统架构师模拟和优化波导、谐振器、耦合器、调制器、超表面等光子构建模块，从而减少碎片化工作流程和设计不确定性。[5]
+        ●  Marvell 探讨1.6T光模块与CPO架构的芯片价值转移。 Marvell 在光通信展上讨论了1.6T光模块仍使用DSP与共封装光学（CPO）旨在减少或取消独立DSP之间的权衡。这反映了AI服务器高速数据传输中芯片价值和设计方法的变化。核心思想是缩短电信号路径或将部分处理工作分担给主芯片，据报道NVIDIA的CPO解决方案无需额外的DSP retimer。[6]
+        ●  Lumentum 在AI光互连领域的关键作用。 Lumentum 作为光学组件领域的资深企业，在AI超级周期中其价值被重新评估。该公司在高速激光芯片（200G及以上），特别是EML和CW激光器方面的核心优势，对于AI集群中使用的800G/1.6T光模块至关重要。对这些高端芯片的需求呈爆炸式增长，而由于高制造壁垒和自建晶圆厂的需求，供应受到限制，导致市场出现产品溢价和长期合同。[7]
+        ●  海目星深化超快激光布局，切入AI算力与CPO赛道。 海目星正在深化其超快激光“平台化”布局，进入AI算力与CPO（共封装光学）领域。该公司正在研究利用超快激光在玻璃内部制造三维结构的玻璃3D光波导技术，目前正处于客户验证阶段。此举旨在解决高算力AI芯片的散热需求，并为AI服务器提供一体化制造解决方案。[8]
+    ●  参与机构或企业： PicoJool、Socratic Partners、Hudson River Trading、WIN Semiconductor、Vuzix Corporation、SMART Photonics、GlobalFoundries、Fabric.AI、Kopin Corporation、Keysight、Marvell、NVIDIA、Lumentum、海目星。
+    ●  可能的应用领域和潜在影响： AI数据中心、高性能计算、光通信、AR/VR、激光雷达。这些进展将显著提升AI计算的效率和速度，降低能耗，并推动下一代数据中心和智能设备的互连技术发展。
+
+●  AR/VR与显示技术创新
+    ●  主要事件和突破：
+        ●  Morphotonics 获得4500万美元融资，扩大AR波导制造。 Morphotonics公司获得超过4000万欧元（约4500万美元）的B轮融资，用于扩大其Cypris平台的生产能力。该平台专为AI眼镜和增强现实（AR）应用中的波导高产量制造而设计，采用大面积纳米压印光刻技术，以高精度复制纳米和微米级图案，从而降低成本并提高产量。[9]
+        ●  Fraunhofer IPMS 开发全彩OLED微显示器。 弗劳恩霍夫光子微系统研究所（Fraunhofer IPMS）的科学家们开发出一种基于28纳米CMOS工艺的全彩OLED微显示器。这款高效显示器具有最小的像素，将在Eurodisplay 2026上展出，对AR/VR应用中的高分辨率显示至关重要。[2]
+        ●  浙江水晶光电攻克GWG生产难题。 浙江水晶光电通过攻克GWG（玻璃波导光栅）生产难题，巩固其在AR光学领域的地位。随着AR眼镜向普通眼镜形态加速发展，光学波导作为高成本组件至关重要。降低成本和提升性能是实现大规模普及的主要增长动力。[2]
+        ●  OPPO Find X10 系列发布，集成先进光学设计。 OPPO Find X10系列正式发布，其中Pro Max版本配备“哈苏超清原相机”，采用先进光学设计，提升图像画质、色彩和光影表现。Pro Max版本支持全焦段8K视频录制和专业电影级规格。这表明先进光学设计在消费电子产品中的深度融合。[10]
+        ●  AI终端“T台秀”展示轻量化AR眼镜。 一场AI终端活动展示了包括轻量化AR眼镜在内的多种AI终端产品。XREAL等公司正通过材料、结构和光学创新，致力于使AR眼镜更轻便，以适应日常佩戴。这预示着AI驱动的可穿戴设备在光学设计上将更加注重舒适性和集成度。[11]
+        ●  Mini LED与Micro LED市场发展。 一份报告探讨了Mini LED和Micro LED的市场现状。Mini LED已进入消费市场，而Micro LED虽然显示性能更优，但在大规模量产方面仍面临挑战。光学设计在Mini LED的背光优化和Micro LED的整体显示架构中发挥着重要作用。[12]
+    ●  参与机构或企业： Morphotonics、3M Ventures、Innovation Industries、BOM、Invest-NL、European Innovation Council (EIC) Fund、Ernij Next、European Investment Bank (EIB)、Fraunhofer Institute for Photonic Microsystems IPMS、浙江水晶光电科技股份有限公司、OPPO、XREAL。
+    ●  可能的应用领域和潜在影响： 增强现实（AR）眼镜、虚拟现实（VR）头显、智能手机、高端电视和显示器。这些技术将推动AR/VR设备的小型化、轻量化和高性能化，提升用户体验，并促进新型显示技术的发展。
+
+二、学术论文与研究
+
+●  可重构自旋解耦太赫兹超表面。 MDPI上发表的一篇论文提出了一种光学可编程太赫兹超表面，该超表面仅通过曲率诱导几何相位（CIGP）实现自旋解耦相位控制。研究人员设计了两个独立可控的光敏硅元件，以重新配置有效的表面电流路径，从而在不改变物理结构的情况下实现LCP和RCP波的独立相位控制。这使得动态可重构的自旋解耦聚焦、多角度焦斑转向和独立的双通道近场成像成为可能。[13]
+    ●  参与机构： 未明确提及具体机构，但通常为大学或研究机构。
+    ●  可能的应用领域和潜在影响： 太赫兹通信、成像、传感。该技术为多功能太赫兹波前操控提供了一种简单灵活的方法。
+●  智能眼镜高效纳米光学眼动追踪。 一项关于“智能眼镜高效纳米光学眼动追踪”的研究，通过协同设计光学器件、传感器和网络，提高了智能眼镜的眼动追踪精度并减少了滑动误差。该设计利用超表面光学分离眼球旋转和眼镜滑动，在滑动预测方面实现了0.52毫米的平均绝对误差，并降低了凝视误差。[14]
+    ●  参与机构： 未明确提及具体机构，但通常为大学或研究机构。
+    ●  可能的应用领域和潜在影响： 智能眼镜、AR/VR设备、人机交互。这将显著提升智能眼镜的用户体验和交互精度。
+●  人工晶状体设计与后囊膜混浊风险。 一项研究探讨了人工晶状体（IOL）的光学设计和材料如何影响后囊膜混浊（PCO）的风险。例如，Alcon的Clareon PanOptix Pro三焦点IOL将光利用率从88%提高到94%，并将光散射减少一半，旨在提供更有效的视力，同时最大限度地减少权衡。[15][16]
+    ●  参与机构： Alcon（爱尔康）。
+    ●  可能的应用领域和潜在影响： 眼科医疗、白内障手术。这将改善患者术后视力，降低并发症风险。
+●  基于MEMS的光学相干断层扫描技术。 一篇综述论文讨论了手持式或内窥式OCT（光学相干断层扫描）技术的最新研究进展，重点关注MEMS扫描仪。该研究分析了不同MEMS扫描仪的结构特性、成像性能和优势，并介绍了基于MEMS的OCT探头及其应用。这项研究对于OCT系统的小型化和集成化以满足多样化临床检测需求至关重要。[17]
+    ●  参与机构： 未明确提及具体机构，但通常为大学或研究机构。
+    ●  可能的应用领域和潜在影响： 生物医学成像、临床诊断、微创手术。
+●  保偏光纤剥离力测试技术研究。 中国电子科技集团公司第四十六研究所的张雪莲、刘笑东和衣永青于2026年9月24日发表了一篇论文，研究了保偏光纤的剥离力测试技术。该研究探讨了温湿度对熊猫型保偏光纤涂层剥离力的影响，并提出了一种高稳定性的光纤涂层剥离力测试系统。[18]
+    ●  参与机构： 中国电子科技集团公司第四十六研究所。
+    ●  可能的应用领域和潜在影响： 光纤通信、光纤传感器制造。这将提高保偏光纤的可靠性和生产质量。
+●  基于倍频效应的高精度散斑重建光谱仪。 四川大学电子信息学院光学工程系和固体激光技术重点实验室的李静等人于2026年9月24日发表了一篇论文，介绍了一种基于倍频效应和神经网络的高精度散斑重建光谱仪。该方法将红外待测光转换为硅基相机可探测的波段，并在低成本下实现了高分辨率测量，在3纳米工作带宽内实现0.1皮米光谱分辨率。[19]
+    ●  参与机构： 四川大学电子信息学院光学工程系、固体激光技术重点实验室。
+    ●  可能的应用领域和潜在影响： 光谱分析、环境监测、材料科学。该系统具有结构紧凑、成本低、精度高的优势，有利于拓宽散斑光谱仪的实际应用场景。
+●  智能手机光学传感器在食品安全监测中的应用。 胡志明市科技大学研究人员的一篇最新综述文章，回顾了基于智能手机的光学和光谱传感在食品监测中的发展。这突出了光学设计在便携式和易于获取的食品安全技术中的应用。[20]
+    ●  参与机构： 胡志明市科技大学。
+    ●  可能的应用领域和潜在影响： 食品安全、环境监测、消费级传感设备。
+
+三、开源库与工具
+
+●  TinZr 开源可穿戴平台。 TinZr是一个紧凑的开源微控制器平台（25 × 25毫米），专为可穿戴生理传感和无线数据采集而设计。它集成了ESP32-C3、运动传感、电池管理和无线连接。完整的硬件设计、固件和相关文件均公开可用，允许研究人员连接不同的光学、环境或电生理传感模块。[21]
+    ●  可能的应用领域和潜在影响： 可穿戴设备、生物医学研究、物联网。这将促进可穿戴传感技术的研究和开发。
+●  ZEMAX OpticStudio 教程。 ZEMAX OpticStudio是一款广泛使用的光学设计软件，其教程被重点提及。该软件使工程师能够创建、优化和分析光学系统，包括镜头设计、优化和照明设计。[22]
+    ●  可能的应用领域和潜在影响： 光学工程、产品开发。该工具是光学工程师进行精密光学系统设计和仿真的重要资源。
+
+四、其他相关动态
+
+●  纳米光子学市场增长。 全球纳米光子学市场预计到2033年将达到949亿美元，2026年至2033年复合年增长率为18.4%。这一增长得益于AI驱动的计算、高带宽光通信、数据中心现代化、先进显示器、光学传感和医疗保健成像。硅光子学、光子集成电路、光学调制器、光电探测器、等离子体激元和量子点正在拓展技术领域。[23]
+●  红外截止滤光片（IRCF）市场。 红外截止滤光片（IRCF）市场预计将增长，主要受智能手机、车载摄像头和安防监控设备的需求驱动。全球市场规模在2025年接近7亿美元，预计到2031年将超过10亿美元。[24]
+●  AI DC 2026白皮书。 一份关于“AI DC 2026”的白皮书讨论了数据中心从“资源供给系统”向“算力生产系统”的转变，“Token”成为衡量算力的基本单位。这影响了AI数据中心的设计范式，包括当单芯片性能接近物理极限时对系统级优化的需求。[25]
+●  2026半导体生态发展大会。 以“AI驱动新质创芯”为主题的会议讨论了多种半导体技术。三维集成（3D封装），包括混合键合技术，正成为提高芯片性能和本土制造能力的关键技术，解决了传统光刻技术的局限性。这对光学检测和制造工艺具有重要意义。[26]
+
