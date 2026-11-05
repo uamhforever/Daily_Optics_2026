@@ -1,0 +1,24 @@
+# 6月12日
+每日超表面简报⏰
+在过去24小时内，超表面和AI成像领域涌现出多项重要进展，涵盖了学术研究、行业动态和技术应用。
+
+超表面（Metasurfaces）方面：
+
+●  学术论文： ACS Nano期刊发表了题为“Hyperspectral Imaging of Dipole-Ladder-Mediated Exciton Drift in Moiré Superlattices”的论文，其中提及超表面作为相关研究领域。[1]
+●  学术论文： arXiv上发布了一篇题为“Intelligent Skin Cancer Detection Using a Multispectral Metasurface and a Hybrid”的学术文章，提出将多光谱超表面成像与CNN-ViT混合深度学习架构相结合，实现了皮肤癌的高精度检测，准确率达98%，灵敏度95%，特异性99%。[2]
+●  行业动态/学术文章： 材料世界网报道，日本ULVAC与大阪大学开发了一项利用条纹型超表面（Metasurface）的高效率LED圆偏光技术，成功突破传统无偏光光源的理论限制，实现了68%的偏光转换效率和0.27的圆偏光度。这项技术在半极性面上形成倾斜结构的氮化銦鎵系LED，并直接整合单层氮化硅纳米条纹，有望应用于虚拟/增强现实（AR/VR）、3D制程及量子信息通讯等领域。[3]
+●  学术文章： APL Photonics期刊刊登了“Electro-optical modulation of light polarization in a nonlocal lithium niobate metasurface”的特邀文章。[4]
+●  学术文章： 有研究提到一种1比特DBFC超表面阵列，在结构和成本方面具有优势，在微波成像和无线电力传输等领域具有很高的应用潜力。[5]
+
+AI成像（AI Imaging）方面：
+
+●  学术论文： 除了上述结合超表面的皮肤癌检测研究外，AI超景深显微镜在考古文物三维微观结构分析中也取得了进展。相关研究探讨了如何利用AI超景深显微镜征服“凹凸不平”的考古文物三维微观结构，通过3D合成重建算法实现全幅清晰成像。[6]
+●  学术论文： Optica Publishing Group发表了“Dual-beam differential optical imaging for atmospheric turbulence mitigation in free-space propagation”的论文，介绍了一种物理驱动的采集层框架（DBI），通过嵌入式AI实现实时、低功耗操作，有效减轻自由空间传播中的大气湍流。[7]
+●  学术论文： CVPR 2026（计算机视觉与模式识别大会）表彰了本年度最具创新性的计算机视觉与人工智能研究，其中“ChordEdit: One-Step Low-Energy Transport for Image Editing”论文提出了一种无需训练、无需反演的方法，可实现高保真度的单步图像编辑，支持快速、轻量且精准的编辑。[8][9]
+●  学术论文： 一项研究提出利用视觉语言模型生成星系图像描述，并构建可搜索嵌入，以实现对超过1亿张星系图像的语义搜索，在稀有现象发现方面取得了先进性能。[2]
+●  行业动态： 财联社报道，字节跳动AI制药业务线开启拆分与独立融资，这反映了AI for Science（AI4S）产业化进程中的组织形态和人才评价体系的调整。[10]
+●  行业动态： 虎嗅网分析了2026年AI云战争的格局，指出AI正在重塑云计算的架构和价值定位，云逐渐从“算力池”转变为“AI运行与协同的神经中枢”，预示着AI成像等AI能力将更深入地集成到云服务中。[11]
+●  开源项目： 网易报道，自变量机器人开源了WALL-OSS-0.5和XRZero-G0数据采集系统，这些是具身智能领域的重要开源技术底座，虽然不直接是AI成像，但对具身AI的感知和成像能力有潜在影响。[12]
+
+这些进展共同推动了超表面和AI成像技术在基础研究和实际应用中的发展。
+
