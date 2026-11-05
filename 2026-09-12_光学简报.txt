@@ -1,0 +1,267 @@
+# 9月12日
+
+每日机器学习赋能超表面设计简报⏰
+以下是关于每日机器学习赋能超表面设计在过去24小时内的最新动态简报：
+
+1. 单层定向超表面实现全光图像分类器
+
+●  时间： 2026年9月11日[1]
+●  主要事件和突破： 一项研究引入了一种单层定向超表面，用于数字图像分类，该超表面基于双层衍射深度神经网络（D2NN）框架。这项突破旨在减少传统多层设计中存在的空间复杂性和对准问题。[1]
+●  参与的研究机构或企业： 该研究为学术论文，具体机构未在摘要中明确提及。[1]
+●  可能的应用领域： 数字图像分类、全光神经网络、全息成像、目标识别和物体分类。[1]
+●  潜在影响： 简化了全光图像分类器的制造和对准过程，显著提高了空间利用效率。该方法在理想相位掩模版和超表面上的分类准确率分别达到了84.73%和84.85%。[1]
+●  相关链接： 该论文可在Amazon S3上查阅。[1]
+
+2. 哈佛大学研究人员协同设计分层半导体与超表面
+
+●  时间： 2026年9月11日[2][3]
+●  主要事件和突破： 哈佛大学的研究人员协同设计了一种分层半导体和超表面，通过整合电子态、光学场和几何结构，以实现在特定波长下的高效频率转换。[2][3]
+●  参与的研究机构或企业： 哈佛大学研究人员。[2][3]
+●  可能的应用领域： 光子学和量子技术的微型化。[2][3]
+●  潜在影响： 这项工作有望推动更紧凑、更高效的光子和量子器件的发展。[2][3]
+●  相关链接： 此进展在《半导体工程》的“芯片行业周报”和IndexBox的“行业会议亮点：半导体和量子发展”中被提及。[2][3]
+
+3. QuantumCore 收购 Avalanche PhotoniQ，聚焦超表面单光子探测器
+
+●  时间： 2026年9月11日[4]
+●  主要事件和突破： QuantumCore 公司完成了对 Avalanche PhotoniQ 的收购。Avalanche PhotoniQ 开发了一种基于专有半导体超表面技术的下一代单光子探测器平台。[4]
+●  参与的研究机构或企业： QuantumCore、Avalanche PhotoniQ。[4]
+●  可能的应用领域： 量子计算、量子通信、量子网络、光学传感和先进成像。[4]
+●  潜在影响： 该技术为单光子探测提供了高探测效率和精确的时间分辨率，进一步巩固了 QuantumCore 作为量子计算行业关键组件供应商的地位。[4]
+●  相关链接： Barchart.com 发布了此项收购新闻。[4]
+
+4. 中国国际光电博览会（CIOE 2026）展示超表面光学组件
+
+●  时间： CIOE 2026 于2026年9月9日开幕，相关新闻于9月11日报道。[5]
+●  主要事件和突破： 在CIOE 2026的AR & VR展区，展示了超表面光学组件和AI模拟光路系统，旨在为下一代沉浸式体验提供支持。[5]
+●  参与的研究机构或企业： CIOE 2026的参展商（泛指）。[5]
+●  可能的应用领域： 增强现实（AR）、虚拟现实（VR）以及其他沉浸式体验技术。[5]
+●  潜在影响： 这表明超表面技术在消费电子和沉浸式技术领域正获得日益增长的行业关注和应用。[5]
+●  相关链接： GoPhotonics 对此进行了报道。[5]
+
+5. 超表面智能传感技术综述
+
+●  时间： 在2026年精密仪器与光学工程国际会议（PIOE 2026）上发表，相关报道于2026年9月11日发布。[6]
+●  主要事件和突破： 一篇综述论文介绍了超表面的基本物理原理、电磁波操控机制及其系统分类，并重点关注了其在智能传感领域的典型应用。[6]
+●  参与的研究机构或企业： 论文作者未在摘要中明确提及，通常为学术研究人员。[6]
+●  可能的应用领域： 三维全息显示、多维光场检测、量子传感器、智能电磁成像和无线环境传感。[6]
+●  潜在影响： 该综述强调了超表面通过物理层信息控制实现传感与计算的深度融合，有效提升了系统集成密度和传感精度。[6]
+●  相关链接： 该论文收录于SPIE会议论文集。[6]
+每日推送设置
+每日机器学习赋能镜头光学设计简报⏰
+以下是关于每日机器学习赋能镜头光学设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+行业动态与突破
+
+●  蔡司与广州黄埔区深化AI眼镜产业合作
+    ●  时间: 2026年9月11日[1][2][3][4]
+    ●  主要事件和突破: 全球光学巨头蔡司在广州黄埔区启动蔡司光学小镇项目，旨在打造全球智能光学产业创新高地。该项目将重点吸引AR/VR/AI眼镜产业链企业，涵盖光波导、光机模组、核心镜片等关键部件的研发与制造。黄埔区已集聚26家智能眼镜产业链重点企业，2026年上半年产业规模已达约22亿元，同比增长15.2%。[1][2][3][4]
+    ●  参与的研究机构或企业: 蔡司 (Zeiss)、广州黄埔区政府、知识城（广州）投资集团有限公司、广纳四维、安凯微电子、尼卡光学、逸文科技、谷东科技等。[1][2][3][4]
+    ●  可能的应用领域和潜在影响: 推动智能眼镜核心光学部件（如核心镜片、光机模组）的智能化设计和制造，加速AI技术在视觉交互、AR/VR设备中的应用，提升光学产业的整体创新水平。[1][2][3][4]
+    ●  相关链接:
+        ●  网易新闻: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFajsa9DRoaVNp47DlgluO4Xn_5poK8Uy2DtSvob69OHhM8hJf2ogDFJS-SAfbFRy2si3GLOs0g2wIaMbC4Mk-nuSFeNfn1olbeiE9HTsxkgvCZAp-NgDWqiJjnCOmq0OExGwNoph2FcND9y6zt2Q==[1]
+        ●  新浪财经: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG01TzbGfmF_PVnG8c4VvwZ0zouPjrnnf-NNhp6eQl_qgaB8kzLbeqgQbsUsM4OVSdKnvM-5YWi-ZjbPnmYrYXgG5BNFJH341_d2V9z6OdVb8E8QaqmD0vGqCcSKbK0BrHBSyfhdUbrTyC5PKEhY25Kneufz_1W1XE9J5ZdbtmP[2]
+
+●  Micro-LED全彩光波导技术迈向量产
+    ●  时间: 2026年9月11日[5][6][7]
+    ●  主要事件和突破: 在近期光博会上，多家AR光学企业展示了Micro-LED全彩光波导产品，并强调其量产进展。鸿石云锦的彩色MicroLED产品已进入客户试产阶段，部分已实现量产交付。歌尔光学、水晶光电、广纳四维、谷东智能等公司也展示了各自在全彩光波导技术上的最新成果，包括VHG体全息单片多色光波导、碳化硅刻蚀全彩光波导以及已启动量产的二维阵列光波导。行业竞争焦点已转向镜片厚度、光栅可见度、彩虹纹、杂散光、光效及最终成像质量。[5][6][7]
+    ●  参与的研究机构或企业: 鸿石云锦、歌尔光学、水晶光电、广纳四维、谷东智能、联合光电、理湃光晶等。[5][6][7]
+    ●  可能的应用领域和潜在影响: 提升AR/AI眼镜的显示效果和用户体验，加速Micro-LED技术在消费级光学产品中的普及，为轻量化AR/AI眼镜、VR/MR设备、智能家居、汽车电子和工业视觉等领域提供更先进的光学解决方案。[5][6][7]
+    ●  相关链接:
+        ●  新浪财经: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnY6wDT_qwWpvIGP7wMtH_gTRZNELcNpjthODlwOSn8iTkFPOWtu_U_HUYET8XzEs4lcBcuuFFRnvrFBqRXlYmmRVHActcnaqIFMIH7iw_AyjKXba93lNuwITowAE5BykpQR-gOQoxoKmiAaru8sfz1tt5J3Pdsu4wY3lIOB63MwHQg2g=[5]
+        ●  网易新闻: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFosBRP6jKp6PzVAZcpJR72dZw54EAEwKfMaPqhEy0vzBDUsRRNSu1aRcBOa8b0xxgD0Eb0PQTQcOI0N_InkCRyO80kjTOOhLYQugeIhNZnKV1aISCAB8s7TQvZhxIuhPv2ffoEJtCbXNxfrU8MnQ==[6]
+
+●  VisionTech发布首款AI观赛眼镜G1
+    ●  时间: 2026年9月11日[8]
+    ●  主要事件和突破: VisionTech正式推出专为体育赛事优化的AI观赛眼镜G1，支持4K HDR实时渲染、超低延迟传输和AI数据叠加。该眼镜首次将专业级视频处理芯片小型化，并利用自研的NeuralVision引擎和超过200种体育赛事场景模型，实现AI实时增强画质、叠加球员数据与战术轨迹。[8]
+    ●  参与的研究机构或企业: VisionTech。[8]
+    ●  可能的应用领域和潜在影响: 彻底改变传统体育赛事观赛体验，为用户提供更沉浸、更智能的视觉交互，未来可能扩展到其他需要实时信息叠加和画质增强的场景。[8]
+    ●  相关链接:
+        ●  体坛: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkackLoMRF4uXxKKgOKxmPLvBy_pyVYnMBh3AuFHJpqPNE80aWaefeybldB1lu-SfhAPAubzPEc2zVU9ymz2zQSBRJEAte-wItflgxKnrlh_71fRkYudWvxvYkDSCc5q6u4LC42Uw=[8]
+
+●  AI在光学检测与制造中的应用
+    ●  时间: 2026年9月11日[7]
+    ●  主要事件和突破: 视彩光电展示了结合机器视觉与算法的光学检测仪器，用于显示屏和AR/VR近眼设备的测试与校正。其AR-70L镜头采用低色差、低畸变光学设计，可检测亮度色度均匀性、FOV、MTF、畸变等参数。昆山康泰达智能科技有限公司发布了第四代全彩光机AA测试线，通过自研光学算法实现多自由度下的微米级动态解算和主动对准，解决了全彩AR光机RGB三色光路高精度重合的量产难题。[7]
+    ●  参与的研究机构或企业: 视彩（上海）光电技术有限公司、昆山康泰达智能科技有限公司。[7]
+    ●  可能的应用领域和潜在影响: 提升XR产品研发验证和产线批量质检的效率和精度，确保光学模组和整机产品的质量，加速光学制造的自动化和智能化进程。[7]
+    ●  相关链接:
+        ●  陀螺科技: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXSKyae2umMHvnzObFy7lpG6hPKOVZ4dvLRdz2BgGE0KbH97yr6kYvqPSSqAZLZxdF7M3wIm-b4NwH0Zca4SNR72AWf5-gaeUpo2cmVVx5eKYc6EJtoorwkMyLtj0DjkwUDE-WsVqYOM0lyrw=[7]
+
+●  AI与光互连技术推动数据中心发展
+    ●  时间: 2026年9月11日[9][10]
+    ●  主要事件和突破: Lumentum管理层预测，AI基础设施的建设将推动大型AI数据中心内部高速互连网络迈向光学化。NPO（近封装光学）预计2027年进入市场，2028年广泛部署；CPO（共封装光学）的规模化窗口在2028-2029年。壁仞科技也在研发基于光学互联技术的机架级整套解决方案。[9][10]
+    ●  参与的研究机构或企业: Lumentum、Lightmatter、壁仞科技。[9][10]
+    ●  可能的应用领域和潜在影响: 解决AI算力扩张带来的数据传输瓶颈，提升数据中心和AI服务器的传输效率和能效，为AI计算提供更强大的硬件支持。[9][10]
+    ●  相关链接:
+        ●  美股投资网: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL1ACjGIL9L90bM-hMThr0SZVbbAesRLa_RgboeYO4hA4FTd2VwURKQRMy6F9bhnbT5-Ot8umRRYAdznX4O9aOunp0JAQB-DTCMm6Z1hzRn6cdG7xHfFp6IKvF0eUHVeFVsdcHodGdwTR0h0GOGIERDyFbA_G5qJjYGZu2Mc830b0uhI4yMJnoFKVSQCn_rlNHiJqehIDWgP1xCJL7tQDzM8ViMrFuXJLNHInKEIcrCcknkFGZdTNOYEwh5dotMkkXpFhVX2BnfNuXfKIfxBOIIb8jw--BYghvJHvwiTpx51IMZnMWwOmR_cFtHce-zny-NiXCFFTDGlSNkKgGTcZrr9V2pMAvdsoZvnYm2AWCIaDO7fzs2m0pYUaYCx3oWZ0jl7mMk1uN0qAHVmSCasamhojmMQQiwndbz6gotYpHErRm5j8tUlJELYeHnw2nDZcGhCrZhX9ABis-my_1Wk7mjyGQXB6LFXcZgk2NXOOsH-fLlto9_mBE_kWPbR7wlHHhA2cMZt3B-ImWEFrLZ72LGKEeZtNWM_0YCS7afJhVj-z9v33wkA8qGf0[9]
+
+论文、学术文章与开源库动态
+
+●  AI辅助图像编辑工具的进展
+    ●  时间: 2026年9月11日[11][12]
+    ●  主要事件和突破: Google的Gemini图片修改功能展现出强大的AI图像编辑能力，用户可以通过圈出图片区域并输入文字指令进行精准修改。此外，Trae1ounG开源的PaperPlotSkills工具，能够辅助生成论文图，实现从数据到风格化图表、从参考图像到风格迁移。[11][12]
+    ●  参与的研究机构或企业: Google (Gemini), Trae1ounG。[11][12]
+    ●  可能的应用领域和潜在影响: 提高图像编辑效率，降低专业绘图门槛，加速科研成果的可视化表达，为光学设计中的图像处理和可视化提供更便捷的工具。[11][12]
+    ●  相关链接:
+        ●  阿里云开发者社区: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWgyAkz1Qj_oFpthDhi8qJhlUkbjQVXrVKGPc2sLtVmJXACT2zbx-BvP210c0ErJgao6sGx3t6Wh2GdfzCKvAzAfBEJZKvhHVufaKHguz3_Tp4nhNUekc=[11]
+        ●  PDNob PDF Editor: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDudWOk2SNE7B1TdAYI1ddSXUIX95HdW8sMJp-zKEkGfWn8orozVmqj13HW7mxkjOEbM5UjBJse5b_ojJzDyqrgznLEbPLU0eCgF0ZWkK1z12y0202rpOZUqjWgqdfvcBQabldsgALb3x1Xc8OVlrI[12]
+
+●  AI在机器人视觉系统中的应用与开源工具
+    ●  时间: 2026年9月11日[13]
+    ●  主要事件和突破: Intel RealSense D405深度相机凭借其紧凑设计和高精度深度感知能力，为机器人手眼标定提供了理想的硬件平台。同时，有开源标定工具被推出，旨在简化机器人视觉中复杂的手眼标定问题，无需深入理解复杂数学原理即可快速完成标定。[13]
+    ●  参与的研究机构或企业: Intel。[13]
+    ●  可能的应用领域和潜在影响: 提升机器人视觉系统的精度和易用性，加速机器人技术在工业自动化、精密装配等领域的应用，其中光学镜头作为机器人视觉的核心部件，其设计和标定将受益于AI的赋能。[13]
+    ●  相关链接:
+        ●  CSDN博客: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECkXHNStG9aqeI06r0k-qGUShOmNULBx-WFfrmk91wXundxBvo2WsJpJtxJJiukyItzBgQJioDrUti9SUBzKRrUH2-eLKiitG5ZtUMJ220V60mzQ1VZP0WWRW6jZidAmwuYbg81ibahQs03IHeIFbelfL-_4Zp5Q==[13]
+
+●  智谱GLM-6.0大模型将实现“完全自训练”
+    ●  时间: 2026年9月11日[14]
+    ●  主要事件和突破: 智谱创始人、清华大学教授唐杰在业绩发布会上透露，智谱下一代大模型GLM-6.0将定位于Full Self-Training（完全自训练），旨在让模型具备自我判断、自我修正和自我进化的能力。这意味着模型将能够自主产生数据、进行验证、发现错误并修正，形成持续的自我改进循环，减少对人工工程师的依赖。[14]
+    ●  参与的研究机构或企业: 智谱、清华大学。[14]
+    ●  可能的应用领域和潜在影响: 改变传统大模型训练流程，加速模型迭代和能力提升，未来可能应用于更复杂的AI系统设计，包括间接影响光学设计软件的智能化和自动化水平。[14]
+    ●  相关链接:
+        ●  ZAKER新闻: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2s1MoCeFoGE-Q8w9o4MbGvxUAhRiZHLvp0JLiLYzDXtj-38tkpxZ19OIqeDo3TvFMgMCtyW85BUF_BLkKsju3T72rJkFLrhRon3wRcNMFwt1Z0h_mFOs_YiPxlNJB77BoMPD1qxn2nRRN8U0hckeCb79s55GdtG2yQfMEmNY=[14]
+
+●  阶跃星辰开源图像编辑模型Step1X-Edit
+    ●  时间: 2026年9月11日[15]
+    ●  主要事件和突破: 阶跃星辰发布了图像编辑模型Step1X-Edit，并宣布开源。[15]
+    ●  参与的研究机构或企业: 阶跃星辰。[15]
+    ●  可能的应用领域和潜在影响: 促进图像编辑技术的发展和普及，为开发者和研究人员提供更多工具，可能在光学图像处理、缺陷检测等领域发挥作用。[15]
+    ●  相关链接:
+        ●  永利app中国官网: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhZrGbdCEnIGobyry7Y1DtXgUea2BJto2H5IeFVhEXUtSq8sBXwKuF-mMYU33zgEm3IXWW0pXiDgoSVLrH4-ALMeYLnI0527xjFzVPAgx0qVQQFry2T3T8NnJOCmDHP8mt3turPBA=[15]
+每日推送设置
+每日光学设计简报⏰
+以下是您关于每日光学设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+学术论文与研究突破
+
+●  全光子时间晶体光学控制技术实现重大突破
+    ●  时间： 2026年9月11日[1][2]
+    ●  主要事件和突破： 一个国际研究团队成功开发出全球首个完全由光子控制的“时间晶体”。这项技术实现了在不依赖电子控制的情况下，以极高速度精确操控光线。该装置能在兆赫兹频率下运作，并将能量损耗降低一半以上。[1][2]
+    ●  参与的研究机构或企业： 国际研究团队，包括法兰西公学院（Collège de France）的研究人员（负责模型建立和理论连接）以及亥姆霍兹德勒斯登罗森多夫研究中心（Helmholtz-Zentrum Dresden-Rossendorf, HZDR）（提供了TELBE装置进行实验）。[1]
+    ●  可能的应用领域和潜在影响： 有望彻底改变光线控制方式，为未来高速运算、通讯及医疗影像等技术带来革命性影响。它为材料、形状和空间结构的光子控制开启了新的可能性。[1][2]
+    ●  相关链接： 享新聞[1], Life 生活網[2]
+
+●  神经辐射场活体荧光成像方法取得进展
+    ●  时间： 2026年9月11日[3]
+    ●  主要事件和突破： 上海科技大学信息科学与技术学院任无畏团队联合上海交通大学等单位，提出了一种名为µNeuFMT的自监督重建方法。该方法融合了隐式神经表示与可微分物理模型，可在重建三维荧光分布的同时，自适应优化背景组织的吸收与散射参数，从而提升复杂组织活体荧光成像的重建精度。[3]
+    ●  参与的研究机构或企业： 上海科技大学信息科学与技术学院任无畏团队、上海交通大学。[3]
+    ●  可能的应用领域和潜在影响： 在肿瘤检测、药物研发、淋巴结示踪及荧光手术导航等领域具有广阔应用前景，为解决实际生物组织中光学参数难以预先精确获取的难题提供了新思路。[3]
+    ●  相关链接： 上海科技大学[3]
+
+●  高功率激光装置B积分测量取得进展
+    ●  时间： 2026年9月11日[4]
+    ●  主要事件和突破： 上海光机所在高功率激光装置B积分测量方面取得进展，提出了一种无需修改激光装置、具备单次测量能力的新方法，其测量结果的准确性和重复性较好。[4]
+    ●  参与的研究机构或企业： 上海光机所。[4]
+    ●  可能的应用领域和潜在影响： 为高功率激光系统中的非线性相位调制诊断提供了切实可行的技术方案，有望实现对激光系统B积分的运行监测。[4]
+    ●  相关链接： 光行天下[4]
+
+●  新型光学角点检测成像方法
+    ●  时间： 2026年9月11日[5]
+    ●  主要事件和突破： 香港城市大学研究团队开发出一种新型光学角点检测成像方法，该方法采用基于角向希尔伯特变换超构表面，并被设计为通用框架。[5]
+    ●  参与的研究机构或企业： 香港城市大学。[5]
+    ●  可能的应用领域和潜在影响： 大力推进了高速、低功耗光学信息处理领域的发展，并展现出在动作追踪方面的应用潜力。[5]
+    ●  相关链接： 香港城市大學[5]
+
+●  气溶胶粒径分布测量技术发展综述
+    ●  时间： 2026年9月10日[6]
+    ●  主要事件和突破： 美国弗吉尼亚联邦大学陈大仁教授在安徽光机所作学术报告，重点讲解了低至1nm颗粒物粒径测量和粒径分析仪器小型化等方面的最新研究进展，并分享了电迁移率分级器在结构设计与性能提升方面的新思路。[6]
+    ●  参与的研究机构或企业： 美国弗吉尼亚联邦大学（陈大仁教授）、中国科学院安徽光学精密机械研究所。[6]
+    ●  可能的应用领域和潜在影响： 气溶胶粒径分析技术在环境监测、机动车排放测量、工业过程控制以及纳米材料表征等领域具有广泛应用，此次报告为相关仪器研发及合作研究提供了新思路。[6]
+    ●  相关链接： 中国科学院安徽光学精密机械研究所[6]
+
+开源库动态
+
+●  阿里云Qwen3.8即将开源
+    ●  时间： 2026年9月11日[7]
+    ●  主要事件和突破： 阿里云的千问Qwen3.8大型语言模型即将正式发布并开源，其参数量达到2.4T。[7]
+    ●  参与的研究机构或企业： 阿里云。[7]
+    ●  可能的应用领域和潜在影响： 为人工智能开发者提供了强大的新开源大型语言模型，将推动AI应用和研究的进一步发展。[7]
+    ●  相关链接： 阿里云开发者社区[7]
+
+行业动态
+
+●  3M亮相光博会，前沿光互连技术赋能数据中心建设
+    ●  时间： 2026年9月9日（光博会开幕），相关报道于9月11日发布[8]
+    ●  主要事件和突破： 3M在第二十七届中国国际光电博览会（CIOE）上展示了其扩束光学（EBO）连接技术。该技术实现了光纤的非接触式光路对接，显著减少粉尘干扰，提升部署效率并降低运维复杂度。微软的Azure云平台及AI基础设施将成为首个大规模部署3M EBO技术的平台。[8]
+    ●  参与的研究机构或企业： 3M、微软。[8]
+    ●  可能的应用领域和潜在影响： 为智算中心、云数据中心等高密度光互连场景提供坚实支持，助力AI数据中心基础设施升级迭代。[8]
+    ●  相关链接： 网易[8]
+
+●  鸿石智能彩色MicroLED进入更轻的AI眼镜
+    ●  时间： 2026年9月11日[9][10]
+    ●  主要事件和突破： 鸿石智能在CIOE 2026上展示了其MicroLED产品的最新进展。其“极光耀影”产品已实现客户项目量产交付，基于“云锦”平台的新一代三色合光MicroLED彩色光机已进入部分客户项目试产。其0.08英寸MicroLED微显示芯片分辨率为640x480，像素间距2.4μm，光机体积仅0.15cc，重0.5克，典型功耗90mW。[9][10]
+    ●  参与的研究机构或企业： 鸿石智能。[9][10]
+    ●  可能的应用领域和潜在影响： 推动AI眼镜向更轻、更久、更自然的形态发展，为终端品牌在普通眼镜的物理尺度内提供更多设计空间，提升用户体验。[9][10]
+    ●  相关链接： 投影时代[9], 新浪财经[10]
+
+●  AI眼镜合作牵动光学供应链
+    ●  时间： 2026年9月11日[11]
+    ●  主要事件和突破： AI眼镜的发展对光学供应链提出了“看得清、戴得久、反应快”的核心要求。台湾光学供应链因其精密制造、良率管理与快速协作能力，在AI眼镜合作中变得日益重要，成为将规格转化为实际产品的中段枢纽。[11]
+    ●  参与的研究机构或企业： 谷歌XR、三星、台湾光学厂等。[11]
+    ●  可能的应用领域和潜在影响： 反映了整个XR产业正在从话题走向实作，加速AI眼镜从研发验证向工程导入和量产推进。[11]
+    ●  相关链接： 股市爆料同學會[11]
+
+●  Micro LED CPO与AI光互连加速
+    ●  时间： 2026年9月10日[12]
+    ●  主要事件和突破： 在中国光博会上，Micro LED CPO（共封装光学）成为焦点，多家企业展示了以Micro LED阵列替代传统激光器的方案，实现超高带宽密度，功耗普遍低于1-2pJ/bit。[12]
+    ●  参与的研究机构或企业： 镭昱、星钥半导体、立琻半导体、晶湛半导体、光擎源、智算光联等。[12]
+    ●  可能的应用领域和潜在影响： 推动AI光互连技术的发展，实现更高带宽、更低功耗的数据传输，满足AI时代对数据中心和通信的需求。[12]
+    ●  相关链接： LEDinside[12]
+
+●  蔡司在黄埔开启AI眼镜产业“大计”
+    ●  时间： 2026年9月11日[13]
+    ●  主要事件和突破： 光学巨头蔡司在广州黄埔深化投资，规划建设面积约2.1平方公里的广州AI眼镜产业园。该产业园将围绕智能眼镜产业链关键环节，聚焦核心技术研发、高端装备制造、产业服务平台搭建和场景应用创新，构建全产业链生态体系。[13]
+    ●  参与的研究机构或企业： 蔡司、广州开发区、知识城（广州）投资集团有限公司等。[13]
+    ●  可能的应用领域和潜在影响： 旨在打造全球智能光学产业创新高地，吸引光波导、光机模组、核心镜片、智能整机等AR/VR/AI眼镜产业链企业集聚，推动智能光学产业创新发展。[13]
+    ●  相关链接： 粤TV[13]
+
+●  LED与AR技术融合开启智能汽车显示新时代
+    ●  时间： 2026年9月11日[14]
+    ●  主要事件和突破： 投影级RGB LED光源正成为实现实用型增强现实抬头显示（AR-HUD）的高效可靠解决方案。该技术通过高电流密度芯片与热优化陶瓷封装，在微小晶片上实现高达16,000尼特的峰值亮度，解决了AR-HUD在亮度、体积、热管理、色彩准确性和安全性方面的严苛要求。[14]
+    ●  参与的研究机构或企业： 艾迈斯欧司朗（ams OSRAM）等。[14]
+    ●  可能的应用领域和潜在影响： 推动AR-HUD从概念车型快速迈向量产座舱，有望将导航指引、危险警示和驾驶辅助信息直接投射在驾驶员视线范围内，提升驾驶安全与体验。[14]
+    ●  相关链接： 荣格工业传媒[14]
+
+●  ASML联手台积电三星，为AI大晶片改造光刻工艺
+    ●  时间： 2026年9月11日[15]
+    ●  主要事件和突破： ASML正与台积电和三星合作，改造光刻工艺以适应大型AI芯片的制造。现有High NA机台采用变形光学设计，单次曝光面积有限，制造大尺寸芯片需要“拼接”。ASML计划通过转向12英寸掩模来取消这一限制，同时提高扫描机产能并降低芯片制造成本。[15]
+    ●  参与的研究机构或企业： ASML、台积电、三星。[15]
+    ●  可能的应用领域和潜在影响： 提高AI加速器等大型芯片的制造效率，降低成本，推动先进芯片制造技术的发展。[15]
+    ●  相关链接： 鉅亨號[15]
+每日推送设置
+每日超表面简报⏰
+在过去24小时内，超表面技术在多个领域取得了显著进展，尤其是在光成像、光计算、光通信以及AR光学等方向。
+
+主要事件和突破：
+
+●  超构表面光场调控理论进展：浙江大学物理学院于2026年9月11日发布了关于“超构表面光场调控：从界面相位到平面光学”的学术报告信息。该报告由复旦大学副校长周磊教授主讲，系统回顾了超构表面从“界面相位”提出到“平面光学”领域建立的过程，并展望了未来发展方向。超构表面利用电磁波在人工微结构上透/反射时的“界面相位”调控电磁波，具有超薄、易制备、高集成、低损耗等优势，是纳米光学研究前沿。[1]
+●  量子计算中的超表面芯片应用：在2026年外滩大会上，璇相科技展示了其在中性原子量子计算领域的突破。该公司已研制出全球首款可产生百万级原子光镊阵列的超表面芯片，并与中器无量在真实中性原子实验平台上完成了系统级验证。这项技术利用高度聚焦的激光形成微型“陷阱”来固定单个冷原子，并通过激光操控原子的量子状态。[2]
+●  超构透镜阵列在多波长成像与彩色成像中的应用：《应用光学》期刊于2026年9月11日最新录用了一篇关于“超构透镜阵列多波长成像与彩色成像效果”的文章，这表明超构透镜在光成像领域，特别是在实现多波长和彩色成像方面持续取得进展。[3]
+●  AR光波导中的超表面技术：阿法龙公司展示了其自研的MGW超表面光波导，该技术采用纳米级超构表面微纳结构替代传统刻蚀光栅，重新定义了光波导的物理形态。这种波导镜片轻至3克、薄至0.5毫米，视场角可达53°以上，同时色彩均匀性和透过率均超过90%。[4]
+●  AI赋能超构光学设计：光研科技在2026深圳光博会上展示了其在“AI与前沿交叉技术板块”的创新应用，其中包括超构光学设计。这表明人工智能正被深度融入光学研发的各个环节，以缩短复杂光学系统的研发周期并拓展设计边界。[5]
+
+参与的研究机构或企业：
+
+●  浙江大学物理学院和复旦大学：在超构表面光场调控理论研究方面有重要贡献。[1]
+●  璇相科技和中器无量：在量子计算领域合作，开发了基于超表面芯片的百万级原子光镊阵列。[2]
+●  阿法龙：在AR光学领域推出了基于超表面技术的MGW光波导。[4]
+●  光研科技：在光学设计软件和测试系统服务方面，将AI应用于超构光学设计。[5]
+●  《应用光学》期刊：发布了超构透镜阵列在成像方面的新研究。[3]
+
+可能的应用领域和潜在影响：
+
+●  光成像：超构透镜阵列在多波长和彩色成像方面的进展，有望推动更紧凑、高性能的成像系统发展，应用于消费电子、医疗成像和安防监控等领域。[3]
+●  量子计算：超表面芯片在实现百万级原子光镊阵列方面的突破，为中性原子量子计算的大规模集成和实用化奠定了基础，可能加速量子计算机的研发进程。[2]
+●  增强现实（AR）：超表面光波导技术的进步，使得AR眼镜可以实现更轻薄、更广视场角、更高光学性能，有望提升用户体验，加速AR技术在消费级市场的普及。[4]
+●  光通信与光互连：虽然本次搜索结果中直接提及超表面在光通信和光互连的最新突破较少，但超构表面光场调控的理论进展，以及AI在光学设计中的应用，都将为未来光通信和光互连器件的小型化、高性能化提供新的设计思路和实现途径。[1][5]
+●  光计算：超表面在光场调控方面的能力，结合AI辅助设计，有望为光计算领域带来新的器件和架构，实现更高效、低能耗的计算方式。[1][5]
+
+相关链接：
+
+●  浙江大学物理学院关于超构表面光场调控的报告：https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsPnTkI57yWnkjMD1nRX0VHGZ4OV_LWilo5Po6ZVeM5lsg3kIMxQQWl0CEz2ZtZ_DrvKcUO42PXLRUixsYrGQryQGyGIi5WoA6EttcaD-D2S4eMAucgaxN3xNDM2GDcQgmo9oYznbetH-ZEE3qR00AWbR8NB7Xhw==[1]
+●  网易关于2026外滩大会的报道（提及璇相科技）：https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETW_58ACaIepi2dGqcNnmrPSSwDk-jou6aspeR9wUuw4NdZqRmLN6mmxZvOMU8RE-Vf300HwoJkZSPKFuc9SMPlu054UaEQGkOpN0-bvbPH6R_NkCjJxaAVGcmPk2yI12tPZt2QVLgq1dsNnjQ0mQ=[2]
+●  应用光学期刊关于超构透镜阵列的论文：https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyVDt2PramHsIIaLgQW92aZfnbzqThOZLhaBpffcpr-c_ggGn4v-ju9PyPq-6FDIz0FO932qI_-hi9CevswntcRk8LozJG7FFGGo-9eFl04yl5GTLR23dZzWetbWWDtJUFvad_UnqXwMMJGTHAfUAI1LooSO0kin2bpcFuM2w=[3]
+●  陀螺科技关于AR光波导的报道：https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPa1l88aIdg8WpYJhVXz2m67a_HCqaoQZJDDkWvl_Xg6zusOocoi4ZyIXPpOhw7uLi4h8KY8sC5Uj7lK8MMsb4AAe_6BDNkeTEeNbjDT-fm9rqrGpq8IHwV6RAbGyJGEh_BtRkI3pIwKqLzdZ2[4]
+●  光行天下关于光研科技的报道：https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu3Zf-AaAKbehBfPiB6i1tiHID5iw5rNxD7NB_pfWEciKf5OvHU0Z97FHw69T1lPFJXjueICy7WzfOm05tHjfhgNl4r2KWCkVQh8IV876PCCgO3urIkw83Q_EsEalS_Il4dSTh655cbPo9[5]
+
