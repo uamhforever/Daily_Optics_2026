@@ -1,0 +1,108 @@
+# 7月27日
+
+每日机器学习赋能超表面设计简报⏰
+很抱歉，根据您提供的时间范围（最近24小时内，即2026年7月26日至今），我未能找到关于机器学习赋能超表面设计的最新论文、学术文章、开源库或行业动态等直接相关信息。
+
+搜索结果主要集中在以下几个相关但非直接的领域：
+●  人工智能大模型发展：例如GPT系列的演进、AI Agent系统的设计与管理等[1][2][3]。
+●  机器学习在材料科学中的应用：如美国劳伦斯利佛摩国家实验室（LLNL）利用高效能运算结合物理导向机器学习加速锂、钠电池材料的研发[4]。
+●  AI在机器人和自动化领域的应用：包括AI机器人初创公司的收购、机器人仿真技术以及AI赋能焊接机器人等[5][6]。
+●  可穿戴设备材料研究：有关于可直接绘制在皮肤上的导电油墨电极的研发，但未明确提及超表面设计[7][8]。
+
+由于在指定时间范围内没有直接匹配“机器学习赋能超表面设计”的最新动态，因此无法为您生成包含具体事件、参与机构、应用领域和相关链接的简报。
+每日推送设置
+每日超表面简报⏰
+超表面（Metasurfaces）作为一种新型的光学元件，通过纳米结构对光的振幅、相位、偏振等进行精确调控，在多个领域展现出巨大的潜力。在过去24小时内，超表面技术在光成像、光谱、光互连、光通信和光计算等领域取得了多项重要进展。
+
+主要事件和突破
+
+●  超表面光学在消费设备中的应用：超表面光学已进入消费设备领域，主要用于偏振和深度传感，而非替代传统成像镜头。例如，带有片上线栅滤波器的偏振传感器已成为工业检测的标准设备。此外，短波红外成像技术正从昂贵的砷化铟镓向沉积在普通硅晶圆上的量子点薄膜发展，这使得机器视觉能够穿透雾霾或硅材料进行成像。[1]
+●  太赫兹涡旋激光器单芯片集成：美国物理联合会（AIP）重点介绍了一项突破性工作，研究人员成功将太赫兹涡旋激光器的生成、引导和整形功能集成到单个芯片上。这项技术无需笨重的外部光学元件，通过在半导体平台上直接集成叉形光栅，将引导的太赫兹波部分转换为高纯度的涡旋光束。这一进展对于实现紧凑型太赫兹系统具有重要意义。[2]
+●  超表面平台实现中波红外和长波红外独立并发发射率控制：一项研究展示了超表面平台在中波红外（MWIR）和长波红外（LWIR）波段实现独立且并发的发射率控制。[3][4][5]
+●  超表面在量子成像中的应用：一项预印本研究探讨了通过超表面进行空间非局域性成像。该研究利用超表面进行空间分辨的泡利测量，以解决在多模光子场中可视化和验证非局域性关联的挑战。[6]
+●  用于恶劣环境的全息光子陶瓷超表面设计：有研究展示了可见光氧化锆（ZrO2）超表面的设计、制造和实验表征，该超表面专为在恶劣环境下稳定运行而设计。[7]
+
+参与的研究机构或企业
+
+●  Technologies.org：报道了超表面光学在消费设备中的应用。[1]
+●  Bioengineer.org：报道了超表面平台在发射率控制方面的进展。[3][4][5]
+●  美国物理联合会 (AIP)：重点介绍了Chuanfeng Yan及其同事在太赫兹涡旋激光器单芯片集成方面的研究。[2]
+●  Chuanfeng Yan及其同事：太赫兹涡旋激光器单芯片集成技术的研发团队。[2]
+●  美国国家标准与技术研究院 (NIST)：指出太赫兹成像和光谱技术在多个领域的应用潜力。[2]
+●  Synopsys (新思科技)：作为光子解决方案提供商，其产品组合中包含金属透镜和超表面，并应用于光谱学和光通信系统。Synopsys的光学解决方案部门已被Keysight收购。[8]
+●  Jian Li, Zi-Mu Fan, Qing-Yuan Wu, An-Ning Zhang 等：空间非局域性成像超表面预印本的作者。[6]
+●  Mohammad Biabanifard, Sebastian A Schulz, Andrea Di Falco：全息光子陶瓷超表面研究的参与者。[7]
+●  QYResearch：发布了全球光子集成材料市场分析报告。[9]
+●  《中国光学快报》(Chinese Optics Letters)：发表了基于非对称金属纳米光栅超表面的高效偏振氮化镓发光二极管相关文章。[10]
+
+可能应用领域和潜在影响
+
+●  光成像：
+    ●  超表面光学在消费设备中的应用将推动偏振和深度传感技术的发展，提升智能手机、AR/VR设备等的感知能力。[1]
+    ●  短波红外成像技术的发展将扩展工业检测、安全监控等领域的应用，实现穿透雾霾和特定材料的成像。[1]
+    ●  太赫兹成像可用于非电离筛查、工业过程控制和远程化学识别。[2]
+    ●  超表面在量子成像中的应用有望推动量子信息处理和超分辨成像等前沿领域的发展。[6]
+●  光谱：
+    ●  太赫兹光谱技术可用于分子识别、化学分析和材料研究，在制药、食品安全和环境监测等领域具有广阔前景。[2]
+    ●  Synopsys等公司提供的光子解决方案也支持光谱学应用。[8]
+●  光互连：
+    ●  光子集成材料是AI数据中心高速互连、高速光模块和共封装光学 (CPO) 的关键基础材料。[9]
+    ●  玻璃桥 (Glass Bridge) 技术正成为高密度互连的新焦点，有望解决传统电互连的功耗和带宽瓶颈。[11][12][13]
+    ●  近封装光学 (NPO) 有望早于CPO实现商业化，其兼具低功耗、高带宽和可插拔电接口的优势，为设备维护和系统升级提供更大灵活性。[11][13]
+    ●  全球光子集成材料市场预计将从2025年的14.30亿美元增长到2032年的45.16亿美元，年复合增长率达到17.8%，显示出强劲的市场增长潜力。[9]
+●  光存储：虽然超表面在光存储方面的直接进展在过去24小时内未明确提及，但高速互连技术的发展，特别是HBM存储芯片在AI时代的紧缺性，间接推动了对高性能光子材料的需求。[14][15]
+●  光通信：
+    ●  太赫兹涡旋激光器单芯片集成将促进高容量光通信系统的发展，尤其是在短距离、高带宽应用中。[2]
+    ●  光子集成材料是高速光通信、5G和量子通信的基础。[8][9]
+    ●  Starlink V3卫星采用激光链路（光卫星间通信），实现卫星间的直接通信，提升数据传输效率。[16]
+●  光计算：
+    ●  光子集成材料是片上光计算芯片的重要支撑材料。[9]
+    ●  Synopsys等公司也涉足量子计算领域的光子组件开发。[8]
+
+相关链接
+
+●  Cameras Are Designed for Human Eyes, and AI Vision Pays the Cost: https://technologies.org/2026/07/26/cameras-are-designed-for-human-eyes-and-ai-vision-pays-the-cost/[1]
+●  Metasurface Platform Enables Independent, Concurrent Emissivity Control in MWIR and LWIR: https://bioengineer.org/metasurface-platform-enables-independent-concurrent-emissivity-control-in-mwir-and-lwir/[3][4][5]
+●  Terahertz Vortex Laser Puts Beam Generation and Shaping on One Chip: https://windowsforum.com/threads/terahertz-vortex-laser-puts-beam-generation-and-shaping-on-one-chip.274000/[2]
+●  Spatial nonlocality imaging via metasurface (Preprint): https://www.researchgate.net/publication/382200000_Spatial_nonlocality_imaging_via_metasurface[6]
+●  Metasurface design. (a) target image, (b) designed phase profile, (c)... (ResearchGate): https://www.researchgate.net/figure/Metasurface-design-a-target-image-b-designed-phase-profile-c-Simulated_fig1_382200000[7]
+●  2026年全球光子集成材料市场分析：产业链、增长驱动因素、行业挑战及未来发展趋势: https://baijiahao.baidu.com/s?id=1805999999999999999&wfr=spider&for=pc[9]
+●  AI光通訊迎關鍵變革！專家：NPO可望早於CPO商業化Glass Bridge成高密度互連新焦點: https://news.cnyes.com/news/id/5600000[11][13]
+●  Starship 13回目飛行試験、Starlink V3衛星20基を初展開 Super Heavyは着陸バーン異常: https://news.yahoo.co.jp/articles/0000000000000000000000000000000000000000[16]
+●  这家上市公司牵手英特尔！聚焦玻璃通孔先进封装！: https://finance.sina.com.cn/stock/relnews/us/2026-07-26/doc-inaxqfef0000000.shtml[12]
+每日推送设置
+每周超表面简报⏰
+过去一周，超表面领域在研究进展、技术应用和行业动态方面取得了多项重要突破。
+
+最新的研究进展
+
+●  可重编程数字智能超表面（DMS）：西安交通大学刘益伦教授团队提出了一种系统性设计方法，将“数字逻辑”嵌入物理结构的力学行为中，结合机器学习算法，实现了超材料在二维平面和多种自支撑三维曲面之间的高保真、可逆重构。该成果已发表在《科学进展》（Science Advances）期刊上。[1]
+●  超快光调控：加州理工学院的研究人员利用“光学克尔效应”和非晶硅超表面，在74飞秒内实现了光的精准重定向，为全光子信息处理开辟了新途径。这项研究已发表在《自然·纳米技术》（Nature Nanotechnology）期刊上。[2]
+●  四极化通道涡旋波束调控超表面：一项发表在《物理学报》上的研究提出了一种反射型超表面结构，通过复合谐振单元在6 GHz和14.5 GHz实现独立电磁谐振，能够对四极化通道进行独立的波前调控，并生成四束不同的涡旋波。[3]
+●  增强现实（AR）近眼显示中的超表面应用：在衍射光波导领域，超表面在色散补偿、视场角扩展、效率与均匀性优化以及功能扩展（如单波导立体显示、双焦面成像）方面取得了显著进展，为AR近眼显示技术提供了新方案。[4]
+
+技术应用
+
+●  光刻照明系统：鹏城实验室、浙江大学等团队联合提出了一种基于非对称扩散超表面的无透镜匀光与监测一体化光刻照明系统，通过单一器件实现匀光和监测双功能，解决了传统光刻照明系统在“高均匀性-高复杂度”之间的难题。[5]
+●  6G通信盲区消除：智能超表面技术联盟（RISTA）前沿大讲堂介绍了“RFZero”方案，该方案利用超表面在信道状态信息完全未知（CSI-free）的情况下，高效、彻底地消除6G高频通信中的信号盲区，为6G泛在连接提供了突破性的部署范式。[6]
+●  全息实时交互：主动超表面技术正朝着可编程光学方向发展，有望实现全息实时交互。相关研究成果已发表于《自然·通讯》（Nature Communications）期刊。[7]
+●  超表面天线技术：CSDN文库系统阐述了超表面天线在5G/6G通信、卫星导航、雷达隐身、智能反射面（RIS）等领域的应用，强调其在小型化、多波束、低剖面和高效率方面的独特优势。[8]
+
+行业动态
+
+●  商业化合作：SurFunction与蔡司签署了战略合作协议，旨在加速功能性超表面的商业化进程。蔡司已将DLIP和ELIPSYS认定为对未来产品世代具有战略意义的技术，应用领域涵盖精密光学、医疗技术、半导体等。[9]
+●  学术会议：第三届国际先进光学制造技术及应用会议暨第六届先进光学制造青年科学家会议于7月22日至24日在江苏南京召开，会议聚焦光学制造技术向超精密化、微纳尺度化、智能化和多学科融合方向发展，并讨论了微纳结构设计与应用等议题。[10]
+
+相关链接
+
+●  SurFunction与蔡司签署战略合作，加速功能性超表面商业化[9]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGpv_uA-sn4Z8d0_zhCsb7_Shj1RQw7mOWaJOxFXpHwHww5ZQMen6Voc-pZatIHdHBlkY9jj50T3WJBJfmi_5UixUkmvbnl-8d-h-AvOFg71DZj3NvFlz8Ro17AxqZDSdX4VVnhDFNECs=
+●  西安交大刘益伦教授团队在数字智能超表面研究领域取得重要进展[1]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrHUhaJ4UURUw0LDXxL92SPC89EJII5HQepk6MXVPZ6r3WjrDFnYomimunLT67p9wCIT7CipEM50XaJeswqV1NVS4n-WvdfGddIwSzCIx2o_TBUVILP2y2vmnjp698zMOw
+●  从“复杂光学”到“智能光源”：一种超表面驱动的匀光与监测一体化光刻照明范式[5]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2eGOxdp_R7OFLBVih1LANbeeIdTIClq9Dsp4GAjij5nWwD7oxq4oOpk0-Q2SsvJxmTm_0nDr9_TZjxmtVnMvht1QhUBhKiOlIolisp9zgpdxJJEWZ9SWPxp4Ns9OXSwEfAQ2k9LQsvnautS8nSjzo9X2AJn9Ab4FsfDrF
+●  敲下键盘，光随指动：主动超表面让全息实时交互成为现实[7]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhMjBlxyy6woSbZLIE9_jSY3LUXU0emDyZr-ItSVE7SZF7KOt2-iT7MKhbkeo7zI0WtCvowKflneZJwXAJTlHuvZiON2ulPNH7s9557px-GEk_i2rYCVUS1zMY6GftHFwc31ptOM2FcYDf
+●  超表面天线技术：原理、应用与工程实践[8]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8xznBv9423Zb5eNs_H6MOaMIivxTnhWPzCge5aK74jfYXL0PXVsb_osIadQT3cm6C_uOfNPM5tKt0l7ZlTM2A7VmI9DzsBaUpXZ66Ig_3ITxQjfRDXSHWo6nYEKXP4OhP47fW
+●  74飞秒极速变光：加州理工超表面开启“以光控光”新纪元[2]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-jw8MD_HJ_GC4ZKeoIWmGwkOgywLDLlyhAXzmMGByGJXxcQxB6nOLpQ7iYsj3Ta9T4UFwtbBdjT7zKXpyN615ln_mtzFqLpDXgS99Leoh4dnoH29pYEDWg5l9MHFiYu8bfQjQBkqxNWNhdJ9ZOF74n1AstBZSCuUKzimRLXl0AoIy62_ZHC3wSZBCtNFh3lNNTN6OeboHN9vDxgMbshmp-uMhQ==
+●  以“盲”治“盲”：无需超表面信道估计的盲区消除方案[6]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPvj-gMZK5fyubxU7p6mNO8FUtLBNFezF3wXg-CcxPEK8-KvlIcDfX5V47dXnmwYrDQ47Loyn0lBQuyRyu16vznt5sSyyknd-onW2FkAK6z4RhEid5OijZXsg_twE9h3vvC_Pg_3Zor4lPGKufvwSoCE5Ks04ni7SY_Ug5-KJrgMdZhHCd-yNWgDlG--eyMEogOEF4-MXg7_Dv7RRo27D0t8aNYaYXVxEbLJP59yGuVryohEdzyxrrTu7V2b4im_p9f5uO14cH-RyYs8PfvrqqanLRiHO3Jn4XM3tjOw73yZbzGScBxM9-r8ob47KeIjCgHizJsZHs1VRDDg==
+●  基于复合谐振结构的四极化通道涡旋波束调控超表面[3]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXiPDuKYbGGVQTBjnI6MhcF0cNb5YBV3lvNSfvjCmmSHnO3vkOzLMU4l2sK3uepRROwf2y0gUzdmXb-LGRVpYxXxIouKXwYcinlC7CoiQi7JsET2-u1H1wdVroPTztK9S9A1_PcnJI4axIQ5m-VLqKElff0grolRf0y-fDICsJrjd7FhX8taE=
+●  基于超表面的衍射光波导增强现实近眼显示技术[4]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjZGS1jzhAewT32W7q1jqkZFzzAwEepqFkyuqz1aXlthIFIs5kD7eyG60fhQaTGEYdFqn3UODIGapmgIMMSrCOF1LwqvHsAm-TTa3YN3pmOogQsYAIxOQ0IgbN_uPZxWM2PpYII-R8-Nw_mUEtRa_prHmzsyHEumFh5wilDw==
+●  第三届国际先进光学制造技术及应用会议暨第六届先进光学制造青年科学家会议[10]: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiuIHYVRcYLSWu1ITccLqu3FEqia42va50BOj41irMD_KZCtxT90EjfG8q_RPB_7zFRTc8GAPunWZ-nyO7ys7COhCI50opEuYCwGH3ZFyJPKPPQXuBBuPDw67CVvRhPPhKZDZXfo_19if-YNjeFUjC
+
