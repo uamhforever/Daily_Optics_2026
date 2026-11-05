@@ -1,0 +1,211 @@
+# 10月2日
+
+每日机器学习赋能镜头光学设计简报⏰
+以下是关于每日机器学习赋能镜头光学设计最新动态的简报，涵盖最近24小时内的相关信息。需要注意的是，在过去24小时内，直接针对“机器学习赋能镜头光学设计”的论文、学术文章或开源库的明确发布信息较少。然而，有几项相关行业动态和技术进展，间接体现了机器学习在光学领域，特别是光学组件的测试、优化以及AI设备对光学技术需求的推动作用。
+
+1. AI在硅光子测试中的应用与数据驱动方法
+
+●  时间: 2026年10月1日[1]
+●  主要事件和突破: 硅光子测试领域正经历从传统手工表征向自动化、设计内置和数据智能体系的转变。其中，神经网络驱动的自动化测试系统被提及，它能够实现自适应对准与表征。通过逆建模和快速表征，神经网络可以学习器件的几何结构与光学响应之间的映射关系，从而快速提取器件参数并检测异常，避免了耗时的全光谱扫描。未来的发展方向将是物理建模与数据驱动相结合的混合方案。[1]
+●  参与的研究机构或企业: 文章提及台积电在硅光子量产方面的进展，但具体研究机构未明确指出，该信息为综述性质。[1]
+●  可能的应用领域和潜在影响: 这一进展将极大地提升硅光子器件的测试效率和可靠性，为AI算力与高速通信时代硅光子的大规模应用奠定基础。虽然主要聚焦于测试，但其数据驱动和神经网络方法为光学器件的优化和表征提供了新的思路，间接影响未来的光学设计流程，例如通过更高效的反馈循环来指导设计迭代。[1]
+●  相关链接:[1]
+
+2. Ansys强调AI在工程设计（包括光学）中的通用加速作用
+
+●  时间: 2026年10月1日[2]
+●  主要事件和突破: 仿真软件公司Ansys指出，在产品开发过程中，人工智能（AI）能够加速场景生成、自动化分析，并帮助工程师评估更大的设计空间。Ansys强调AI在整个任务生命周期中都能创造价值，并明确将“光学”列为AI可以发挥作用的领域之一。[2]
+●  参与的研究机构或企业: Ansys[2]
+●  可能的应用领域和潜在影响: 这表明AI作为一种通用工具，在包括光学设计在内的复杂工程领域具有广泛的应用潜力。通过AI辅助，工程师可以更高效地探索和优化设计方案，缩短开发周期，并可能发现传统方法难以触及的创新设计。[2]
+●  相关链接:[2]
+
+3. AI眼镜发展对光学微型化和高集成度的需求推动
+
+●  时间: 2026年10月1日[3]
+●  主要事件和突破: 随着AI眼镜等新型AI设备的兴起，其普及面临着尺寸、耗电和整合效率等核心挑战。为了克服这些障碍，晶圆级光学和微缩制程技术变得至关重要。这促使采钰等公司在光学微型化和高集成度方面提供关键技术支持。[3]
+●  参与的研究机构或企业: 采钰 (6789)[3]
+●  可能的应用领域和潜在影响: AI眼镜等穿戴设备的市场需求，正推动光学设计向更小、更轻、更高效、更高集成度的方向发展。这种趋势未来可能需要更先进的机器学习方法来优化这些日益复杂的光学系统，以满足AI设备对性能和尺寸的严苛要求。[3]
+●  相关链接:[3]
+每日推送设置
+每日机器学习赋能超表面设计简报⏰
+以下是关于每日机器学习赋能超表面设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+1. 超表面设计简化新进展
+●  时间: 2026年10月1日[1]
+●  主要事件和突破: 韩国浦项科技大学（POSTECH）的研究人员开发了一种分析框架，用于识别看似无序的超表面中隐藏的重复模式[1]。这一方法旨在更快、更准确地分析复杂的超表面结构，从而简化其设计过程[1]。
+●  参与的研究机构或企业: 浦项科技大学（POSTECH）[1]。
+●  可能的应用领域和潜在影响: 该方法有望简化增强现实（AR）、成像和全息系统等光学元件的设计[1]。长远来看，它可能支持自旋电子学、光子计算和数据存储技术未来的发展[1]。
+●  相关链接: 更多信息可参考OpenPR.com上的相关报道[1]。
+
+2. 超材料市场增长与商业化加速
+●  时间: 2026年10月1日[1]
+●  主要事件和突破: 超材料市场正经历显著增长，预计到2035年全球市场规模将达到107.8亿美元，2026年至2035年期间的复合年增长率（CAGR）为22.2%[1]。Echodyne公司投资4000万美元新建制造工厂，以扩大超材料电子扫描阵列的生产能力[1]。Kymeta与Japan Display在2026年达成合作，共同开发多频段超表面孔径[1]。
+●  参与的研究机构或企业: Echodyne、Kymeta、Japan Display、DataM Intelligence、Pivotal Commware、Lumotive、Metalenz、Greenerwave[1]。
+●  可能的应用领域和潜在影响: 这些进展表明超材料正从专业技术开发转向更大规模的商业部署，应用于雷达、卫星通信、波束成形、激光雷达（LiDAR）和光学超表面等领域[1]。Echodyne的扩张将满足国防、反无人机行动和关键基础设施对先进雷达系统日益增长的需求[1]。
+●  相关链接: 更多信息可参考OpenPR.com上的相关报道[1]。
+
+3. 机器学习赋能硅光子测试技术
+●  时间: 2026年10月1日[2]
+●  主要事件和突破: 亚利桑那州立大学和台积电（TSMC）的研究团队在IEEE Design & Test上发表了一篇综述，系统梳理了硅光子系统测试的技术挑战和数据驱动解决方案[2]。其中强调了数据驱动和机器学习辅助测试作为重要技术演进方向，包括深度学习模型在性能预测、故障检测与诊断、智能采样提效以及逆建模与快速表征方面的应用[2]。
+●  参与的研究机构或企业: 亚利桑那州立大学、台积电（TSMC）[2]。
+●  可能的应用领域和潜在影响: 硅光子技术是下一代高速互连和光计算系统的核心[2]。机器学习的应用有望解决硅光子器件在纳米级工艺波动敏感性和内部光学信号难以直接观测等测试瓶颈，从而推动其大规模量产和系统级集成[2]。
+●  相关链接: 更多信息可参考财富号上的相关报道[2]。
+
+4. 自适应超表面涂层在超快激光中的应用
+●  时间: 2026年10月1日[3]
+●  主要事件和突破: 在超快激光实验室现代化进程中，研究人员正利用人工智能开发下一代激光技术[3]。其中提到，亚纳米级可变形超表面涂层（Adaptive MEMS Mirrors with Metasurface Coatings）能够实现光束整形、脉冲压缩或频率偏移的动态调整[3]。
+●  参与的研究机构或企业: 斯图加特大学、Stuttgart Instruments GmbH、康奈尔大学（Henry Haig, Nicholas Bender, Yishai Eisenberg, Frank Wise）[3]。
+●  可能的应用领域和潜在影响: 这项技术有望使高性能超快激光器变得更简单、更小、更经济，从而在手术、机械加工和生物成像等领域得到更广泛的应用[3]。
+●  相关链接: 康奈尔大学团队在Optica上发表了相关论文“Single-mode regenerative amplification in multimode fiber”[3]。
+
+开源库动态:
+在过去24小时内，未发现直接与机器学习赋能超表面设计相关的具体开源库发布或重大更新。
+每日推送设置
+每日光学设计简报⏰
+以下是您关于每日光学设计最新动态的简报，涵盖最近24小时内的主要动态：
+
+光学设计最新动态简报 (2026年10月1日 - 2026年10月2日)
+
+一、论文与学术文章
+
+●  时间: 2026年10月1日[1][2]
+●  主要事件和突破: 加州大学圣迭戈分校的研究人员通过重新塑造并缩小超快激光束，成功在由九层铂和钴交替构成的磁性材料中实现了光学切换。这项突破性进展克服了此前实验中磁性材料厚度不能超过三层的限制，并且不再要求光线具有特定偏振。研究团队通过调整光束的形状、大小和能量分布，实现了对光束的工程设计，从而突破了材料和光线方面的限制[1][2]。
+●  参与的研究机构或企业: 加州大学圣迭戈分校 (UCSD)[1][2]。
+●  可能的应用领域和潜在影响: 这项技术有望使光学切换的速度比传统磁场写入方式快一千倍以上，为实现更小、更密集的光学存储提供了可能。未来可应用于商业存储设备，但仍需解决如何实用地生成和传递脉冲的问题[1][2]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1n2--WG-mPaczRYuqk-hdvinlbfvtGn559hUnXSwTVdUUGj8_tNU5k77HPKKBIWvZntB8YqP6J7juqa5pq_-twGRVrAadMOonk9h_2-2SSLUN4MdAlyjDZa9RjF5K2qWpL4aSHI382IHpzFnB4Lc=[1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXRZ2T0oHPaRspQMwS6UyqU_9NfGt4Fj3dC136gUrm_IVF9nXqYC2uaBkkpnEVysF1ccWbQdykOOR7zrz6zqiYB4WZDs09xaTymoCLHkET_1N0CZC0UI4fwaong-Hq8M--LnAhmZEXwTRgrvm_TpyMNw==[2]
+
+●  时间: 2026年10月1日[3]
+●  主要事件和突破: 东京农工大学利用超颖介面技术，开发出厚度为51微米的渐变折射率偏振无关准直超颖透镜。该透镜能够定向发射太赫兹波并抑制波束扩散，以平面波形式朝目标方向传输，指向性提高了4.9 dB。即使将透镜转动90度，也能获得相同效果，表明其对太赫兹波偏振方向不敏感[3]。
+●  参与的研究机构或企业: 东京农工大学[3]。
+●  可能的应用领域和潜在影响: 有助于推动小型太赫兹振荡器实用化，未来可望应用于6G、7G通讯、感测设备与成像技术等领域。该技术有望实现传统厚型透镜难以达成的小型化与高整合度[3]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8V0d3rBEvZ533ww_bwhzanXpeHxDTqRbVTwqsl-xZF6hmxYgICmHLjZE1JU0wkvnSDOmoK6Of3LPDvf-beNYfFKZz6RKSFbHWaj2uHi_5p8rev8-8NyOD35W133tkeRcd-z51J5fCG3CR9DcSJ5JV[3]
+
+●  时间: 2026年10月1日[4][5]
+●  主要事件和突破: 中国科学技术大学郭光灿院士团队的李传锋、王健等人揭示了共振荧光中的多光子散射过程，并提出了一种基于单个二能级原子制备多光子纠缠态的新方法。研究团队首次观测到共振荧光中的三光子和四光子聚束现象，并验证了三光子之间的真正三体能量-时间纠缠。该研究成果已发表在《自然·光子学》上[4][5]。
+●  参与的研究机构或企业: 中国科学技术大学 (USTC) 郭光灿院士团队[4][5]。
+●  可能的应用领域和潜在影响: 拓展了对共振荧光物理过程的认识，为多光子纠缠在量子计算和量子网络等领域的应用提供了新的途径。该方法具有物理机制简单、对量子发射体结构要求较低等特点，并可推广至量子点、囚禁离子、固体色心和超导量子系统等不同量子平台[4][5]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHThyfyfzYxboFQG3o8YU-RkYd3_ciMX8SPYWrGH4i-BDagMHmPX6zmzsdtIb2o8vX6E0d6bIV71-s0PprxYA9FCPBB8J-PtxrM_-FzNQvZkydg8orG2Wqmlz2RXLKQzOrorjcnCJO89-H-yWubvg==[4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsDG25_KYbhv0VXl8uyC8f7jK7Uz2SKnGI59BrsPmFebduEVDmDYF1q4Te_ybqcHx842ehPbd5tuS-y5tHW78UK7nd5bw4HOYpIjLk8qPkZNzrhB0EsdppmNOIfjytZC2U0Aba9tYHI_7MFnX87m9Hl3tXstrL_CqHBmV6tMwA50x4ZChrS-m9Zda[5]
+
+二、开源库
+
+在最近24小时内，未发现关于光学设计的新的开源库发布。
+
+三、行业动态
+
+●  时间: 2026年10月1日[6]
+●  主要事件和突破: IndexBox发布了光学抛光用氧化铈市场展望，预计到2035年，该市场将由半导体化学机械平坦化（CMP）和精密光学制造的需求驱动增长。亚太地区在消费和生产两方面均占主导地位，中国是最大的需求中心和供应枢纽。半导体CMP是最大且增长最快的终端应用领域，精密光学制造也对氧化铈抛光材料有强劲需求[6]。
+●  参与的研究机构或企业: IndexBox (发布报告)[6]。
+●  可能的应用领域和潜在影响: 半导体CMP（先进制程芯片制造）、精密光学（智能手机摄像头、AR/VR头显、汽车激光雷达、医疗器械、航空航天/国防）[6]。市场增长将推动高纯度、低缺陷氧化铈抛光液的需求，并促进供应链多元化[6]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDLBZTR9QyJRFgnWxfUk3yw2CWseEb8TZ-w3VJMmMAJyDSsX7FE0Fg9OlJX_9yJw6UFpz4dYjVpGE4QMgNe3yG2_rfPaN4uC6PT-lrc95JUQ0FTLufcVylUaaHeGQN9faSs2olRtGlPIjCsh5KSt0DAAW-NXq0xp_v4gFpWFdGs8SPj2GFcOHORR8Ar5gKYDW5rFFpPsJ26LgslgFR-crpuW5SidSBwoYW8l_0N7X5YMR2EsiIM9alEmWylyHRp0Baw==[6]
+
+●  时间: 2026年10月1日[7]
+●  主要事件和突破: 博客园发布了2026年10月球面抛光机/非球面抛光机精选厂家推荐，指出国内光学装备行业发展迅速，多家企业在技术研发和产品适配性上取得进展，打破了国外在高端光学加工设备领域的垄断。推荐企业包括北京元成光学科技有限公司、中国科学院长春光学精密机械与物理研究所下属的精密光学工程技术研究所和宁波舜宇智能科技股份有限公司[7]。
+●  参与的研究机构或企业: 北京元成光学科技有限公司、长春光机所精密光学工程技术研究所、宁波舜宇智能科技股份有限公司[7]。
+●  可能的应用领域和潜在影响: 航天、科研、消费电子、车载镜头等高端光学元件加工[7]。这表明国内光学加工设备自主化水平提升，有助于满足多样化的光学元件制造需求[7]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEijXF9CHPKubsllEgTEeFF-e5nUYxuz8SGEGiJqtWb8FlE-0dgI42lpf4wZcETt3GCZLW6EgsU9fHsSfYSDNBkoycLZ4i7mJDCJRdAwDjVpC-nMDwonKKZAcaVTPeW9P3qKgKD6w==[7]
+
+●  时间: 2026年10月1日[8]
+●  主要事件和突破: Applied Materials 将Besi引入其EPIC中心，作为创新合作伙伴，共同开发用于光学和AI系统规模化的光子互连应用。EPIC中心旨在连接芯片制造商、设备供应商、大学和研究机构，实现下一代工艺的并行开发和敏捷交付[8]。
+●  参与的研究机构或企业: Applied Materials, Besi[8]。
+●  可能的应用领域和潜在影响: 先进封装、光子互连、AI系统。这将加速光子互连技术在高性能计算和AI领域的应用，推动半导体制造和封装技术的创新[8]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQhOYkSg9Shj3BkHMnQxUG_2P9Ldhc7fjtowtFzFeHdscoImkOelNiINvZcWGjg7iyG9yo8nBWgj7z3gOI6mDMNgduaNBWbXcgV0se3T2X2Bsjy1T9QNnjI9YSmO1Llq6Mify3OC_OlNCJl2r__hedEdQqnwbJHgKsqKKW5LMvLotadDNMC8YE8L1GW-kzkodu-rkEXJQn07OjSg==[8]
+
+●  时间: 2026年10月1日[9]
+●  主要事件和突破: 工研院与自动光学检测设备联盟在阳明交大举办“第廿六届全国AOI论坛与展览”，聚焦AI与AOI技术发展趋势。论坛展示了半导体先进检测技术，如“FOUP式EUV剂量量测仪”，可在不中断产线的情况下，即时量测极紫外光微影（EUV）曝光剂量，检测效率提升八倍以上[9]。
+●  参与的研究机构或企业: 工研院、自动光学检测设备联盟、阳明交大、威力工业、欣兴电子、汎铨科技等[9]。
+●  可能的应用领域和潜在影响: 半导体先进检测、矽光子、材料分析、智慧视觉、光学元件、影像量测、运动控制等。AI与AOI的结合将加速智慧检测技术落地，为智慧制造和先进制程注入新动能[9]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy6pe_L0h-e5P6ysz2dhAfrDmN3BlPz0mKX70BQcnB9kZ1geNajXngc1VKPj1srKMNLFU43iRTp-2AVtyGjxTQ61TYEKkLS-TB0weoZnn2CCQinFhb_HFxYk87XdPOhcDdRsNV7zE=[9]
+
+●  时间: 2026年10月1日[10]
+●  主要事件和突破: 亚利桑那州立大学与台积电（TSMC）的研究团队在IEEE Design & Test发表综述文章，系统梳理了硅光子系统测试的技术挑战、退化模型、工业主流实践、前沿设计方法与数据驱动方案。文章指出，硅光子器件对纳米级工艺波动极度敏感，且内部光学信号难以直接观测，使得测试技术成为制约其大规模量产与系统级集成的核心瓶颈[10]。
+●  参与的研究机构或企业: 亚利桑那州立大学、台积电（TSMC）[10]。
+●  可能的应用领域和潜在影响: 高速互连、光计算系统。高效、可扩展的测试体系是硅光子从实验室走向大规模量产的产业刚需，将推动AI大模型、超算与数据中心带宽需求的增长[10]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzuZ9S-BXgL93DEU1OlnVa0DaoE31ZnJwzTWSJ0cAasJzkF9I-I90vsxvqnEPMd2Bl6bDJGYLCg5tMlfJHVNGMV-aTNP-vV9QBhYiV5cRXTC_FH2uysHJI_E4IBxqLySTrtm8ZcChyT7C-_H_rW2gsXmkRmeC4[10]
+
+●  时间: 2026年10月1日[11]
+●  主要事件和突破: 光互连公司“芯光界”完成新一轮融资，金额达10亿元人民币，由20家机构联手投资。该公司已建成覆盖硅光芯片设计、光模块设计、系统信号完整性优化的全链路自研体系，其首款NPO光引擎已进入技术验证阶段[11]。
+●  参与的研究机构或企业: 芯光界 (创业公司), 华映资本 (投资方), 以及其他20家机构[11]。
+●  可能的应用领域和潜在影响: AI算力集群、数据中心高速互连、光计算。这笔融资将用于NPO/CPO产品的持续研发、高级别实验室建设、研发团队扩充以及产能与供应链准备，有望加速光互连技术在AI领域的商业化应用[11]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8l3RHMay_qHKXYhIuue58C62ydAMaOpttCFyBdnPJGWNn4aZYqNHTFLPDfvb-8oaaN1iHKgkyoO-otym2mtlWDCw7P_BLM3rMpswKblc_jnvJ-qJ5zarzDLKPhLwoOAWy8cr17m6BiXdCPlGF0QPQFxmgCptrQ2_XnEqpXLbw==[11]
+
+●  时间: 2026年10月1日[12]
+●  主要事件和突破: 迈威尔科技（Marvell）高层在Six Five Summit 2026指出，随着AI推论模型对记忆体需求快速攀升，以及资料中心规模持续扩大，传统铜基互连逐渐接近效能极限，光学互连与记忆体扩充技术将成为下一阶段AI算力扩张的重要因素。迈威尔目前同步推进板载光学（NPO）及共封装光学（CPO）两条技术路线[12]。
+●  参与的研究机构或企业: 迈威尔科技 (Marvell)[12]。
+●  可能的应用领域和潜在影响: AI基础架构、数据中心。光学互连被视为AI基础架构从铜转向光学的“强制函数”，将显著降低数据中心能耗，并支持更大规模的AI系统部署[12]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzhLmgOVcxFR-SUkYR-gjSxnEQrWVZKyHcW4YeQ64pnyHJXLqT-mPvNVSQDTu0dEqB6JxPIvFlNCBqXvjCzoE3TA69ir42SfuD7Hpye6c-ixlviyYv50xhx_8D5uq11372LY8TzhA1iA==[12]
+
+●  时间: 2026年10月1日[13]
+●  主要事件和突破: 美国OKSI公司推出新型智能导引头，能在高超音速下跟踪目标，不依赖GPS、激光指示或无线电通信。该导引头通过机载传感和AI芯片处理，在飞行中自主识别目标。文章指出，光学/红外窗口结合AI处理是高超音速末制导最有希望的路线之一[13]。
+●  参与的研究机构或企业: 美国OKSI公司[13]。
+●  可能的应用领域和潜在影响: 高超音速武器的末制导系统。这项技术旨在解决强电子战环境下传统制导方式的脆弱性，提高导弹的自主识别和攻击能力[13]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhu80G85hJ_CuT8F8FyufYySG-aX6GfXvTfp9ZD0xxFEiiOs53nOrp9XUo0a3bJ5m684myYOGJsQ076Vn-MgTZC1lm_hJCdA_X03GKDHG33DFizx9mtdItf2Mufb5-P3-w1ldqQNuJJwoj5O5QtBc=[13]
+
+●  时间: 2026年10月1日[14]
+●  主要事件和突破: RGB-Mini LED成为高端电视市场的首选，但文章强调分区控制算法和光学设计的重要性。指出有些品牌虽然分区数标得很大，但由于控制算法和光学设计不够成熟，导致效果不佳[14]。
+●  参与的研究机构或企业: 188宝金博官网 (提及)[14]。
+●  可能的应用领域和潜在影响: 高端电视显示技术。这表明在Mini LED显示技术中，精细的光学设计对于实现高质量显示效果至关重要[14]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9LjGJ7npQinAwfl8lywlUNCRK0B2B4UvxJ-twaIzsWMrbgrh4TMazVckA8vrbnhJX_nZSxJmo3vo-uavc3oazIlbf_5Xjl1C3TlD6YCAFXCGBE7SiVQufyq1Tmn65xGKADUWm[14]
+
+●  时间: 2026年10月1日[15]
+●  主要事件和突破: 藤仓（Fujikura）公司在CSR报告中提到，通过抑制光学效应，将光束质量优异的单模光纤激光器输出功率提高到7kW，并实现了激光光束传输电缆的长距离化。报告还提到了光神经网络的验证，展示了可见光光网络能够像人工智能一样对输入的数字进行分类[15]。
+●  参与的研究机构或企业: 藤仓 (Fujikura)[15]。
+●  可能的应用领域和潜在影响: 激光加工、光通信、光计算、下一代机器人。这将提高激光加工的效率和自由度，并为光计算和AI应用提供新的可能性[15]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-1MPcZG4UDo_T83yo3lhA0ZJbKtNWAG_7IjI1ycufm9vopaUMUEoQwygROsnNsCa23KVQKPceHK320qHRht4eRHIAFEcdWoVpt3q_ORUDtpH7M-A8YpDG_zQjWYFo3C-VnO62cJK8yvO-G9MjA3zmS3ZwwwrruXtq3WE5b6Ys1A_vuOTGNXQ=[15]
+
+●  时间: 2026年10月1日[16]
+●  主要事件和突破: 华为发布HUAWEI Mate 90系列旗舰手机，其中包含多项光学相关技术。例如，Pro及以上机型镜头盖板首次采用光学昆仑玻璃，耐摔能力提升20倍；Pro Max典藏版与RS非凡大师升级为玄武昆仑玻璃，抗反光能力提升70%，抗刮能力提升16倍。全系配备第三代红枫原色摄像头，首次全焦段采用红外光学镀膜，全局色彩准确度提升37%，人像肤色还原准确度提升62%[16]。
+●  参与的研究机构或企业: 华为[16]。
+●  可能的应用领域和潜在影响: 智能手机摄像头、显示屏、防护玻璃。这些光学技术的进步提升了手机的影像能力、屏幕耐用性和视觉体验[16]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHroKTFksmhRKnAbJF9guVDp36ypHghXD01gAnyy9p7ss2i8qPRfESl9IW0TrhcLdbgh1nIjTsyTPlnf6jungjlIgJQ2J6DdO2rRgS0bMuzIinU97F0D0VdkDm5DYquBX9iYY5F1KeA6u0GFQBuwj7v4WgpoIeOrELAfgZ41yiNs0pFX-s1[16]
+
+●  时间: 2026年10月1日[17]
+●  主要事件和突破: 金芯诚科技有限公司发布了导热双面胶与光学胶技术新进展的观察报告。报告指出，光学胶（OCA）专注于透明光学元件的无缝贴合，广泛应用于触摸屏、显示屏与盖板玻璃之间。研究热点包括生物基或可降解基体材料的研发，以及兼具导热与光学透明特性的复合胶膜[17]。
+●  参与的研究机构或企业: 深圳市金芯诚科技有限公司 (发布报告)[17]。
+●  可能的应用领域和潜在影响: 触摸屏、显示屏、盖板玻璃等透明光学元件的贴合。光学胶的技术进步将提升电子设备的显示效果和可靠性，并推动环保材料的应用[17]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMtc4XOHXNjDoe-pR604X7OazKKef1-sINYe3tn11S0HP5oox-ySVgoTqNarkObAd7kbTuh-QCDXd7Q53RdjGdpRfj7q0vp62V8ny_7GPvqMhhMSvCAOo7Ea6VvAgXPjgQlkwxZumNzsuUHI90TFotteC8JONap25FVj0OkEslcGwDUA8=[17]
+
+●  时间: 2026年10月1日[18]
+●  主要事件和突破: 贸联-KY的股价表现分析中提到，资金正在调节多档光学、量测、半导体设备及网通持股，反映AI硬件内部也有取舍，连接线材与散热在当天获得较高配置[18]。
+●  参与的研究机构或企业: 贸联-KY (公司)[18]。
+●  可能的应用领域和潜在影响: AI服务器与HPC（高性能计算）需求。这表明在AI硬件供应链中，光学相关组件的市场需求和资金流向正在发生变化，需要关注其长期趋势[18]。
+●  相关链接: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-yZI5Be7HzrLninGk2nci-mdwPQ0v4qSW1hS_lYcYYfilY2hrHHmiioOA1R6KK23nadY_YUYG6yjRt6qvMxOete9Mf0JhhqHyMtZCSy63yt8PKX-mxekZC9WRhksdxA5FoHmTpyWinCPmuNGPdbsDGNti0ajygY38v3iPjaqzQw==[18]
+每日推送设置
+每日超表面简报⏰
+在过去24小时内，超表面技术在多个领域取得了显著进展，尤其是在光成像、光谱、光通信和光计算方面。
+
+主要事件和突破
+
+●  光成像与光谱：
+    ●  POSTECH的研究人员开发了一种超表面生物传感器，能够通过成像精确检测生物分子，而无需昂贵的光谱仪。这种微型芯片结合了超表面的高光学灵敏度和基于成像的简单读取方式，有望应用于传染病检测、癌症生物标志物检测、基因分析和液体活检等即时诊断领域。该研究已发表在《自然通讯》上[1]。
+    ●  POSTECH的研究人员还开发了一种分析框架，用于识别看似无序的超表面中隐藏的重复模式，旨在简化增强现实、成像和全息系统等光学元件的设计[2]。
+●  光通信：
+    ●  约翰霍普金斯大学应用物理实验室（APL）的研究人员开发了一种可编程拓扑超表面技术，能够独立控制电磁波的幅度和相位，从而在拥挤环境中实现更好的通信和低功耗传感应用。这项技术有望为未来的6G网络、智能环境和智能无线系统提供紧凑的集成传感和通信解决方案[3]。
+    ●  Kymeta与Japan Display在2026年建立了合作关系，共同开发和批量生产用于下一代多频段超表面天线的玻璃基板，该天线能够同时在Ku和Ka卫星频率下运行。首批终端将面向国防客户，随后计划推出商业应用[2]。
+    ●  中国电信研究院在北京启动了6G应用创新产业合作共创行动，其中重点布局了智能超表面等方向，并已在高中轨协同组网、AI赋能网络、多模态融合通感、高轨卫星语义通信等多个方向完成了创新试验[4]。
+●  光计算与量子技术：
+    ●  哈佛大学的研究人员展示了一种紧凑型光学平台，将工程半导体量子阱与超表面结合，在近红外波长下产生强大的非线性频率转换。这种厚度小于一微米的器件为电信、量子通信和光子计算领域更小的光学元件提供了潜在途径[2][5]。
+    ●  康奈尔大学的研究人员展示了一种动态超表面，它利用受控的光相互作用产生强大的静态磁化，而无需传统的外部磁体或磁性材料。这种方法可能支持自旋电子学、光子计算和数据存储技术未来的发展[2]。
+    ●  一项发表在arXiv上的研究表明，二维原子阵列可以作为量子超表面，通过瑞利-伍德阈值效应控制线性和非线性光子散射，这为单层原子阵列中的量子非线性光学提供了新的控制原理[6]。
+    ●  SPIE的一项新研究表明，超表面可以纠缠光和信息，这在量子计算和量子通信等应用中具有重要意义[7]。
+●  其他进展：
+    ●  明尼苏达大学的研究人员开发了MetaHeat，这是一种逆向设计的超表面方法，用于控制复杂介质中的激光加热[2]。
+    ●  东京农工大学和日本信息通信技术国家研究院（NICT）的研究人员开发了一种硅基集成超表面吸收器，能够吸收大约95%的太赫兹波，而无需传统的绝缘间隔层，从而减小了厚度、重量和机械应力，并提高了兼容性[2]。
+    ●  Optica Open上的一项研究提出了非对称成像的通用理论，并展示了一个直径1厘米的全硅超表面双合透镜，在4微米处表现出非对称聚焦，同时完全符合洛伦兹互易性。这为国防、监控和安全通信领域的非对称成像提供了基准和设计原则[8]。
+
+参与的研究机构或企业
+
+●  研究机构：POSTECH (浦项科技大学)[1][2]、哈佛大学[2][5]、康奈尔大学[2]、明尼苏达大学[2]、东京农工大学[2]、日本信息通信技术国家研究院（NICT）[2]、约翰霍普金斯大学应用物理实验室（APL）[3]、首尔国立大学[2]、德克萨斯大学奥斯汀分校[5]、格拉茨工业大学[5]、杜克大学[2]、密歇根大学[2]、中国电信研究院[4]、清华大学[9]、中国科学院兰州化学物理研究所[10]、中国科学院合肥物质科学研究院[10]、中国科学院大连化学物理研究所[10]。
+●  企业：Echodyne[2]、Kymeta[2]、Pivotal Commware[2]、Lumotive[2]、Metalenz[2]、Greenerwave[2]、Japan Display[2]、CScale (专注于AI可扩展性的光互连技术)[11]。
+
+可能应用领域和潜在影响
+
+●  医疗健康：超表面生物传感器有望彻底改变即时诊断，实现传染病、癌症生物标志物和基因分析的快速、低成本检测[1]。
+●  通信技术：可编程超表面和多频段超表面天线将推动6G网络、卫星通信和智能无线系统的发展，实现更高效、更可靠的通信[2][3][4]。
+●  计算领域：超表面在光子计算和量子计算中的应用，预示着未来计算设备将更加小型化、高效化，并可能带来数据存储技术的革新[2][5][6][7]。
+●  成像与传感：超表面在增强现实、全息系统、激光雷达和高级传感方面的应用将带来更紧凑、高性能的设备[2][12][13]。
+●  国防与安全：非对称成像技术在国防、监控和安全通信领域具有重要意义[8]。
+●  工业制造：超表面设计简化和动态控制技术将加速光学元件的开发和制造[2]。
+●  能源管理：可调谐红外光学特性超表面可用于传感和热管理应用[2]。
+
+总的来说，超表面技术正处于快速发展阶段，其在控制光波方面的独特能力正在推动从医疗诊断到下一代通信和计算的广泛创新。
+
